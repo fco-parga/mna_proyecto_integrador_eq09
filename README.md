@@ -1,9 +1,11 @@
+!img/tec.png
 # Maestría en Inteligencia Artificial Aplicada
 ## TC5035 Proyecto integrador
 ### Tecnológico de Monterrey
 #### Dra. Grettel Barceló Alonso
 #### Dr. Luis Eduardo Falcón Morales
 
+___
 
 ## Equipo 09
 
