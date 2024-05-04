@@ -1,0 +1,12 @@
+#python 3.9
+
+numpy 
+pandas 
+jupyterlab 
+matplotlib 
+plotly 
+scikit-learn 
+scipy 
+missingno 
+seaborn 
+imblearn
