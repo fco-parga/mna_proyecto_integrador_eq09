@@ -10,3 +10,8 @@ scipy
 missingno 
 seaborn 
 imblearn
+pytz
+opencv-python
+tensorflow==2.10.1
+tensorflow-hub==0.12.0
+
