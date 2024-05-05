@@ -6,11 +6,13 @@ jupyterlab
 matplotlib 
 plotly 
 scikit-learn 
-scipy 
+scipy
+statsmodels
 missingno 
 seaborn 
 imblearn
 pytz
+tqdm
 opencv-python
 tensorflow==2.10.1
 tensorflow-hub==0.12.0
