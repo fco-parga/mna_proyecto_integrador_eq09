@@ -4,7 +4,7 @@ import sys
 def verificar_ambiente():
     # Verificar si está en Google Colab
     if 'google.colab' in sys.modules:
-        print("El ambiente de trabajo no es Google Colab ni Windows.")
+        print("Estas trabajando en Google Colab.")
         return 'colab'
     # Verificar si está en un sistema Windows
     elif os.name == 'nt':
