@@ -26,7 +26,7 @@ def plot_df_counts_histogram(raw_df, column='people', normalize=False):
     plt.show()
 
 
-def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None, intervalo=''):
+def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None, intervalo='', labelsize=8, angle=None):
     """
     Genera un gráfico de líneas del conteo de personas a lo largo del tiempo.
 
@@ -43,6 +43,7 @@ def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None,
 
     # Configura el tamaño de la figura del gráfico
     plt.figure(figsize=figsize)
+    plt.rc('xtick', labelsize=labelsize)
     
     # Grafica los datos agrupados o el conteo de personas por captura
     if grouped and agg2plot:
@@ -58,7 +59,10 @@ def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None,
     plt.gca().xaxis.set_major_locator(mdates.DayLocator())
     
     # Ajusta la orientación de las etiquetas de fecha
-    plt.gcf().autofmt_xdate()
+    if angle:
+        plt.xticks(rotation=angle) 
+    else:
+        plt.gcf().autofmt_xdate()
     
     # Establece las etiquetas y el título del gráfico
     plt.xlabel('Fecha')
@@ -73,3 +77,4 @@ def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None,
     
     # Muestra el gráfico
     plt.show()
+    plt.rcdefaults()

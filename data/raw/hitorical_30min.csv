@@ -1,0 +1,1182 @@
+,event_timestamp,country_code,country_name,city_code,city_name,zip_code,lat,lon,cam_id,cam_name,cam_additional_location_description,add_id,add_name,add_type,people,views,females,males,mode_age,median_age,negative_emotion,positive_emotion,average_emotion_score,cars,weather,sport_event,social_event,extraordinary_event,storage_blob
+0,2023-04-25 19:24:21.511896-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 19:24:21.100613-06:00_frame.jpg
+1,2023-04-25 19:54:59.165048-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 19:54:58.584229-06:00_frame.jpg
+2,2023-04-25 20:25:05.386453-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 20:25:05.010663-06:00_frame.jpg
+3,2023-04-25 20:56:02.770007-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 20:56:02.447836-06:00_frame.jpg
+4,2023-04-25 21:26:39.954640-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 21:26:39.538730-06:00_frame.jpg
+5,2023-04-25 21:57:30.008105-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-25 21:57:29.666512-06:00_frame.jpg
+6,2023-04-26 07:58:38.050229-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 07:58:37.612519-06:00_frame.jpg
+7,2023-04-26 08:29:17.979981-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 08:29:17.624228-06:00_frame.jpg
+8,2023-04-26 08:59:59.933745-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 08:59:59.562283-06:00_frame.jpg
+9,2023-04-26 09:30:22.794558-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 09:30:22.433442-06:00_frame.jpg
+10,2023-04-26 10:00:53.342655-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 10:00:53.035457-06:00_frame.jpg
+11,2023-04-26 10:31:35.712866-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 10:31:35.321745-06:00_frame.jpg
+12,2023-04-26 11:01:55.026236-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 11:01:54.705246-06:00_frame.jpg
+13,2023-04-26 11:32:37.127797-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 11:32:36.769840-06:00_frame.jpg
+14,2023-04-26 12:03:17.055016-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 12:03:16.695348-06:00_frame.jpg
+15,2023-04-26 12:33:45.109827-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 12:33:44.749408-06:00_frame.jpg
+16,2023-04-26 13:03:49.519783-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 13:03:49.154774-06:00_frame.jpg
+17,2023-04-26 13:34:50.620193-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 13:34:50.297499-06:00_frame.jpg
+18,2023-04-26 14:05:36.214920-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 14:05:35.833947-06:00_frame.jpg
+19,2023-04-26 14:36:25.457321-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 14:36:25.084216-06:00_frame.jpg
+20,2023-04-26 15:07:26.639520-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 15:07:26.281543-06:00_frame.jpg
+21,2023-04-26 15:37:37.312448-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 15:37:36.964215-06:00_frame.jpg
+22,2023-04-26 16:07:59.987672-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 16:07:59.659927-06:00_frame.jpg
+23,2023-04-26 16:38:14.764151-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 16:38:14.415665-06:00_frame.jpg
+24,2023-04-26 17:08:44.218160-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 17:08:43.859096-06:00_frame.jpg
+25,2023-04-26 17:39:26.597748-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 17:39:26.277052-06:00_frame.jpg
+26,2023-04-26 18:10:09.533004-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 18:10:09.148442-06:00_frame.jpg
+27,2023-04-26 18:40:59.261265-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 18:40:58.930981-06:00_frame.jpg
+28,2023-04-26 19:11:39.022663-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 19:11:38.663447-06:00_frame.jpg
+29,2023-04-26 19:42:07.293067-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 19:42:06.928739-06:00_frame.jpg
+30,2023-04-26 20:12:33.426103-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 20:12:33.093221-06:00_frame.jpg
+31,2023-04-26 20:43:16.812296-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 20:43:16.418935-06:00_frame.jpg
+32,2023-04-26 21:14:09.545378-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 21:14:09.197716-06:00_frame.jpg
+33,2023-04-26 21:44:51.047774-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-26 21:44:50.760815-06:00_frame.jpg
+34,2023-04-27 08:11:44.071819-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 08:11:43.603482-06:00_frame.jpg
+35,2023-04-27 08:42:24.723592-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 08:42:24.320349-06:00_frame.jpg
+36,2023-04-27 09:13:15.082098-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 09:13:14.752819-06:00_frame.jpg
+37,2023-04-27 09:43:57.776315-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 09:43:57.408755-06:00_frame.jpg
+38,2023-04-27 10:14:34.025020-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 10:14:33.698549-06:00_frame.jpg
+39,2023-04-27 10:45:38.045395-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 10:45:37.704832-06:00_frame.jpg
+40,2023-04-27 11:15:42.751380-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 11:15:42.317739-06:00_frame.jpg
+41,2023-04-27 11:46:29.661664-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 11:46:29.317750-06:00_frame.jpg
+42,2023-04-27 12:17:09.094890-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 12:17:08.764163-06:00_frame.jpg
+43,2023-04-27 12:48:00.304984-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 12:47:59.911353-06:00_frame.jpg
+44,2023-04-27 13:18:32.721979-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 13:18:32.409026-06:00_frame.jpg
+45,2023-04-27 13:49:09.093930-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 13:49:08.762840-06:00_frame.jpg
+46,2023-04-27 14:19:16.739933-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 14:19:16.355916-06:00_frame.jpg
+47,2023-04-27 14:49:19.546662-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 14:49:19.215701-06:00_frame.jpg
+48,2023-04-27 15:20:14.694390-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 15:20:14.378165-06:00_frame.jpg
+49,2023-04-27 15:50:41.631688-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 15:50:41.332852-06:00_frame.jpg
+50,2023-04-27 16:21:35.525975-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 16:21:35.211270-06:00_frame.jpg
+51,2023-04-27 16:52:21.858141-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 16:52:21.539621-06:00_frame.jpg
+52,2023-04-27 17:23:22.222579-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 17:23:21.816026-06:00_frame.jpg
+53,2023-04-27 17:53:35.059718-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 17:53:34.698503-06:00_frame.jpg
+54,2023-04-27 18:23:38.576214-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 18:23:38.257762-06:00_frame.jpg
+55,2023-04-27 18:54:31.685276-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 18:54:31.288009-06:00_frame.jpg
+56,2023-04-27 19:24:52.399926-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 19:24:52.063615-06:00_frame.jpg
+57,2023-04-27 19:54:52.472290-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 19:54:52.172507-06:00_frame.jpg
+58,2023-04-27 20:25:48.657935-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 20:25:48.295183-06:00_frame.jpg
+59,2023-04-27 20:56:34.944798-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 20:56:34.629033-06:00_frame.jpg
+60,2023-04-27 21:26:58.992605-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 21:26:58.679423-06:00_frame.jpg
+61,2023-04-27 21:57:26.994716-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-27 21:57:26.588691-06:00_frame.jpg
+62,2023-04-28 07:58:12.120848-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 07:58:11.512553-06:00_frame.jpg
+63,2023-04-28 08:29:12.744616-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 08:29:12.454247-06:00_frame.jpg
+64,2023-04-28 09:00:00.836418-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 09:00:00.223748-06:00_frame.jpg
+65,2023-04-28 09:30:46.134772-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 09:30:45.786770-06:00_frame.jpg
+66,2023-04-28 10:01:08.287889-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 10:01:07.907171-06:00_frame.jpg
+67,2023-04-28 10:31:12.299714-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 10:31:11.923816-06:00_frame.jpg
+68,2023-04-28 11:02:03.333705-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 11:02:02.997482-06:00_frame.jpg
+69,2023-04-28 11:32:58.764167-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 11:32:58.376203-06:00_frame.jpg
+70,2023-04-28 12:04:00.051657-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 12:03:59.704517-06:00_frame.jpg
+71,2023-04-28 12:34:25.844198-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 12:34:25.503433-06:00_frame.jpg
+72,2023-04-28 13:04:28.885721-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 13:04:28.459761-06:00_frame.jpg
+73,2023-04-28 13:35:26.680437-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 13:35:26.324219-06:00_frame.jpg
+74,2023-04-28 14:06:13.458423-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 14:06:13.058728-06:00_frame.jpg
+75,2023-04-28 14:36:52.129920-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 14:36:51.770087-06:00_frame.jpg
+76,2023-04-28 15:07:32.167206-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 15:07:31.864111-06:00_frame.jpg
+77,2023-04-28 15:37:50.036577-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 15:37:49.689198-06:00_frame.jpg
+78,2023-04-28 16:08:42.711906-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 16:08:42.272863-06:00_frame.jpg
+79,2023-04-28 16:39:35.419241-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 16:39:35.121558-06:00_frame.jpg
+80,2023-04-28 17:10:05.158243-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 17:10:04.800253-06:00_frame.jpg
+81,2023-04-28 17:40:26.653588-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 17:40:26.290701-06:00_frame.jpg
+82,2023-04-28 18:11:24.705806-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 18:11:24.411476-06:00_frame.jpg
+83,2023-04-28 18:42:05.135469-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 18:42:04.799471-06:00_frame.jpg
+84,2023-04-28 19:12:34.889681-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 19:12:34.514421-06:00_frame.jpg
+85,2023-04-28 19:43:12.229492-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 19:43:11.888212-06:00_frame.jpg
+86,2023-04-28 20:13:21.927508-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 20:13:21.581175-06:00_frame.jpg
+87,2023-04-28 20:43:24.921103-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 20:43:24.612463-06:00_frame.jpg
+88,2023-04-28 21:13:33.046427-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 21:13:32.629993-06:00_frame.jpg
+89,2023-04-28 21:44:05.040821-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-28 21:44:04.724277-06:00_frame.jpg
+90,2023-04-29 08:05:13.926735-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 08:05:13.524567-06:00_frame.jpg
+91,2023-04-29 08:35:39.409507-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 08:35:39.087600-06:00_frame.jpg
+92,2023-04-29 09:06:12.668961-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 09:06:12.319179-06:00_frame.jpg
+93,2023-04-29 09:36:58.876595-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 09:36:58.546810-06:00_frame.jpg
+94,2023-04-29 10:07:50.430780-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 10:07:50.125306-06:00_frame.jpg
+95,2023-04-29 10:38:37.018567-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 10:38:36.675711-06:00_frame.jpg
+96,2023-04-29 11:08:51.290693-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 11:08:50.933422-06:00_frame.jpg
+97,2023-04-29 11:39:52.823618-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 11:39:52.463129-06:00_frame.jpg
+98,2023-04-29 12:10:12.732091-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 12:10:12.440361-06:00_frame.jpg
+99,2023-04-29 12:40:32.738781-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 12:40:32.406251-06:00_frame.jpg
+100,2023-04-29 13:10:54.546490-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 13:10:54.174446-06:00_frame.jpg
+101,2023-04-29 13:41:27.535629-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 13:41:27.263011-06:00_frame.jpg
+102,2023-04-29 14:12:09.350308-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 14:12:09.022995-06:00_frame.jpg
+103,2023-04-29 14:42:47.700468-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 14:42:47.348877-06:00_frame.jpg
+104,2023-04-29 15:13:45.812309-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 15:13:45.500595-06:00_frame.jpg
+105,2023-04-29 15:44:05.338294-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 15:44:05.003857-06:00_frame.jpg
+106,2023-04-29 16:14:43.681905-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 16:14:43.365186-06:00_frame.jpg
+107,2023-04-29 16:45:34.152481-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 16:45:33.823671-06:00_frame.jpg
+108,2023-04-29 17:16:38.866731-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 17:16:38.521181-06:00_frame.jpg
+109,2023-04-29 17:47:23.201338-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 17:47:22.863484-06:00_frame.jpg
+110,2023-04-29 18:18:19.313039-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 18:18:18.980175-06:00_frame.jpg
+111,2023-04-29 18:49:02.475672-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 18:49:02.131746-06:00_frame.jpg
+112,2023-04-29 19:19:07.279060-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 19:19:06.956905-06:00_frame.jpg
+113,2023-04-29 19:49:13.390697-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 19:49:13.065920-06:00_frame.jpg
+114,2023-04-29 20:20:12.792641-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 20:20:12.446129-06:00_frame.jpg
+115,2023-04-29 20:51:07.946676-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 20:51:07.624423-06:00_frame.jpg
+116,2023-04-29 21:21:44.108819-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 21:21:43.781414-06:00_frame.jpg
+117,2023-04-29 21:52:14.476177-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-29 21:52:14.143883-06:00_frame.jpg
+118,2023-04-30 08:29:48.327709-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 08:29:47.952978-06:00_frame.jpg
+119,2023-04-30 09:00:35.067926-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 09:00:34.775362-06:00_frame.jpg
+120,2023-04-30 09:30:59.032037-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 09:30:58.738139-06:00_frame.jpg
+121,2023-04-30 10:01:51.426648-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 10:01:51.115421-06:00_frame.jpg
+122,2023-04-30 10:32:48.354595-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 10:32:48.036901-06:00_frame.jpg
+123,2023-04-30 11:03:26.555297-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 11:03:26.214295-06:00_frame.jpg
+124,2023-04-30 11:33:59.497165-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 11:33:59.203031-06:00_frame.jpg
+125,2023-04-30 12:04:42.069454-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 12:04:41.683115-06:00_frame.jpg
+126,2023-04-30 12:35:26.280534-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 12:35:25.964187-06:00_frame.jpg
+127,2023-04-30 13:05:38.378382-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 13:05:38.055879-06:00_frame.jpg
+128,2023-04-30 13:36:02.344106-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 13:36:02.043645-06:00_frame.jpg
+129,2023-04-30 14:06:26.632835-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 14:06:26.330813-06:00_frame.jpg
+130,2023-04-30 14:36:57.335841-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 14:36:57.044202-06:00_frame.jpg
+131,2023-04-30 15:07:17.918521-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 15:07:17.639999-06:00_frame.jpg
+132,2023-04-30 15:38:08.505284-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 15:38:08.207528-06:00_frame.jpg
+133,2023-04-30 16:08:21.701812-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 16:08:21.371285-06:00_frame.jpg
+134,2023-04-30 16:38:51.228632-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 16:38:50.822638-06:00_frame.jpg
+135,2023-04-30 17:08:55.615777-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 17:08:55.286103-06:00_frame.jpg
+136,2023-04-30 17:39:07.699632-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 17:39:07.382364-06:00_frame.jpg
+137,2023-04-30 18:09:38.781082-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 18:09:38.403445-06:00_frame.jpg
+138,2023-04-30 18:40:26.021500-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 18:40:25.695183-06:00_frame.jpg
+139,2023-04-30 19:10:54.319139-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 19:10:54.014124-06:00_frame.jpg
+140,2023-04-30 19:41:01.076373-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 19:41:00.779682-06:00_frame.jpg
+141,2023-04-30 20:11:44.512305-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-04-30 20:11:44.153491-06:00_frame.jpg
+142,2023-05-01 10:02:04.579329-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 10:02:04.138544-06:00_frame.jpg
+143,2023-05-01 10:32:50.705906-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 10:32:50.350945-06:00_frame.jpg
+144,2023-05-01 11:03:40.033042-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 11:03:39.702764-06:00_frame.jpg
+145,2023-05-01 11:33:53.784284-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 11:33:53.449380-06:00_frame.jpg
+146,2023-05-01 12:04:16.895535-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 12:04:16.519792-06:00_frame.jpg
+147,2023-05-01 12:34:38.025654-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 12:34:37.604864-06:00_frame.jpg
+148,2023-05-01 13:05:28.633619-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 13:05:28.285286-06:00_frame.jpg
+149,2023-05-01 13:35:40.313985-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 13:35:39.994503-06:00_frame.jpg
+150,2023-05-01 14:06:30.292516-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 14:06:29.978530-06:00_frame.jpg
+151,2023-05-01 14:36:34.119292-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 14:36:33.787588-06:00_frame.jpg
+152,2023-05-01 15:06:49.861042-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 15:06:49.541796-06:00_frame.jpg
+153,2023-05-01 15:37:31.133339-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 15:37:30.765890-06:00_frame.jpg
+154,2023-05-01 16:08:18.495893-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 16:08:18.142319-06:00_frame.jpg
+155,2023-05-01 16:38:29.381272-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 16:38:29.074751-06:00_frame.jpg
+156,2023-05-01 17:09:33.334054-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 17:09:32.976034-06:00_frame.jpg
+157,2023-05-01 17:39:47.280802-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 17:39:46.961049-06:00_frame.jpg
+158,2023-05-01 18:10:42.834149-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 18:10:42.494963-06:00_frame.jpg
+159,2023-05-01 18:41:05.133209-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 18:41:04.787577-06:00_frame.jpg
+160,2023-05-01 19:11:16.898938-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 19:11:16.336408-06:00_frame.jpg
+161,2023-05-01 19:41:58.908747-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 19:41:58.571670-06:00_frame.jpg
+162,2023-05-01 20:12:45.148011-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 20:12:44.744404-06:00_frame.jpg
+163,2023-05-01 20:43:04.686956-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 20:43:04.344103-06:00_frame.jpg
+164,2023-05-01 21:13:49.631359-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-01 21:13:49.216000-06:00_frame.jpg
+165,2023-05-03 19:37:50.386638-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-03 19:37:49.809184-06:00_frame.jpg
+166,2023-05-03 20:08:47.432040-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-03 20:08:47.102433-06:00_frame.jpg
+167,2023-05-03 21:23:42.504099-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-03 21:23:42.094161-06:00_frame.jpg
+168,2023-05-04 07:59:07.711714-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 07:59:07.242806-06:00_frame.jpg
+169,2023-05-04 08:31:22.779416-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 08:31:22.465215-06:00_frame.jpg
+170,2023-05-04 09:03:41.360173-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 09:03:40.954868-06:00_frame.jpg
+171,2023-05-04 09:37:27.236629-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 09:37:26.871979-06:00_frame.jpg
+172,2023-05-04 10:09:56.646337-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 10:09:56.312644-06:00_frame.jpg
+173,2023-05-04 10:43:18.150167-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 10:43:17.821969-06:00_frame.jpg
+174,2023-05-04 11:16:17.853578-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 11:16:17.458665-06:00_frame.jpg
+175,2023-05-04 11:48:49.679549-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 11:48:49.290451-06:00_frame.jpg
+176,2023-05-04 12:20:48.744603-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 12:20:48.384416-06:00_frame.jpg
+177,2023-05-04 12:53:53.215318-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 12:53:52.764052-06:00_frame.jpg
+178,2023-05-04 13:26:17.245097-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 13:26:16.896097-06:00_frame.jpg
+179,2023-05-04 13:58:55.412026-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 13:58:55.084420-06:00_frame.jpg
+180,2023-05-04 14:31:40.655536-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 14:31:40.221297-06:00_frame.jpg
+181,2023-05-04 15:04:01.057975-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 15:04:00.722150-06:00_frame.jpg
+182,2023-05-04 15:36:25.859224-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 15:36:25.472537-06:00_frame.jpg
+183,2023-05-04 16:08:34.786324-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 16:08:34.413901-06:00_frame.jpg
+184,2023-05-04 16:41:10.798294-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 16:41:10.402103-06:00_frame.jpg
+185,2023-05-04 17:13:17.955321-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 17:13:17.584104-06:00_frame.jpg
+186,2023-05-04 17:45:27.141667-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 17:45:26.786371-06:00_frame.jpg
+187,2023-05-04 18:17:59.052802-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 18:17:58.620899-06:00_frame.jpg
+188,2023-05-04 18:50:32.853179-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 18:50:32.407698-06:00_frame.jpg
+189,2023-05-04 19:23:19.191860-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 19:23:18.778037-06:00_frame.jpg
+190,2023-05-04 19:53:37.385497-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 19:53:37.041842-06:00_frame.jpg
+191,2023-05-04 20:24:20.678248-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 20:24:20.337066-06:00_frame.jpg
+192,2023-05-04 20:54:58.431487-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 20:54:58.086706-06:00_frame.jpg
+193,2023-05-04 21:25:06.709763-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-04 21:25:06.380385-06:00_frame.jpg
+194,2023-05-05 07:54:36.201925-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 07:54:35.737896-06:00_frame.jpg
+195,2023-05-05 08:25:13.332486-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 08:25:13.030347-06:00_frame.jpg
+196,2023-05-05 08:55:44.174163-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 08:55:43.860079-06:00_frame.jpg
+197,2023-05-05 09:26:20.195537-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 09:26:19.842247-06:00_frame.jpg
+198,2023-05-05 09:56:52.722968-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 09:56:52.402546-06:00_frame.jpg
+199,2023-05-05 10:27:22.634076-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 10:27:22.287825-06:00_frame.jpg
+200,2023-05-05 10:58:20.254630-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 10:58:19.906670-06:00_frame.jpg
+201,2023-05-05 11:28:57.568341-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 11:28:57.152192-06:00_frame.jpg
+202,2023-05-05 11:59:09.924412-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 11:59:09.558247-06:00_frame.jpg
+203,2023-05-05 12:29:14.503502-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 12:29:14.202007-06:00_frame.jpg
+204,2023-05-05 13:00:10.814566-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 13:00:10.419881-06:00_frame.jpg
+205,2023-05-05 13:30:43.816168-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 13:30:43.452421-06:00_frame.jpg
+206,2023-05-05 14:01:38.158002-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 14:01:37.826883-06:00_frame.jpg
+207,2023-05-05 14:32:04.264532-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 14:32:03.871438-06:00_frame.jpg
+208,2023-05-05 15:02:56.505552-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 15:02:56.136704-06:00_frame.jpg
+209,2023-05-05 15:33:59.201893-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 15:33:58.894949-06:00_frame.jpg
+210,2023-05-05 16:04:02.569692-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 16:04:02.178652-06:00_frame.jpg
+211,2023-05-05 16:34:15.757444-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 16:34:15.350657-06:00_frame.jpg
+212,2023-05-05 17:04:58.387848-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 17:04:57.984067-06:00_frame.jpg
+213,2023-05-05 17:35:10.095622-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 17:35:09.648233-06:00_frame.jpg
+214,2023-05-05 18:05:18.903546-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 18:05:18.513084-06:00_frame.jpg
+215,2023-05-05 18:36:16.740133-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 18:36:16.283380-06:00_frame.jpg
+216,2023-05-05 19:07:02.157253-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 19:07:01.816203-06:00_frame.jpg
+217,2023-05-05 19:37:45.693032-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 19:37:45.274461-06:00_frame.jpg
+218,2023-05-05 20:08:43.185158-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 20:08:42.686277-06:00_frame.jpg
+219,2023-05-05 20:39:27.096741-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 20:39:26.630669-06:00_frame.jpg
+220,2023-05-05 21:10:28.481512-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 21:10:28.143631-06:00_frame.jpg
+221,2023-05-05 21:40:39.548785-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-05 21:40:39.134364-06:00_frame.jpg
+222,2023-05-08 19:38:53.420452-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-08 19:38:52.923558-06:00_frame.jpg
+223,2023-05-08 20:09:57.256362-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-08 20:09:56.893827-06:00_frame.jpg
+224,2023-05-08 20:39:58.539769-06:00,MX,Mexico,MX-CMX,Mexico City,9460.0,19.36487,-99.13421,1.0,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-08 20:39:58.217241-06:00_frame.jpg
+225,2023-05-08 23:37:10.853702-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-08 23:37:10.505919-06:00_frame.jpg
+226,2023-05-09 00:07:15.130355-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-09 00:07:14.849579-06:00_frame.jpg
+227,2023-05-09 00:37:26.807014-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-09 00:37:26.485191-06:00_frame.jpg
+228,2023-05-09 01:07:35.156669-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-09 01:07:35.156669-06:00_frame.jpg
+229,2023-05-09 01:37:56.458209-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-09 01:37:56.182457-06:00_frame.jpg
+230,2023-05-11 08:29:02.607007-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 08:29:02.273843-06:00_frame.jpg
+231,2023-05-11 08:59:16.180386-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 08:59:15.887800-06:00_frame.jpg
+232,2023-05-11 09:29:30.967184-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 09:29:30.686719-06:00_frame.jpg
+233,2023-05-11 09:59:50.381274-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 09:59:50.089395-06:00_frame.jpg
+234,2023-05-11 10:30:11.901688-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 10:30:11.554552-06:00_frame.jpg
+235,2023-05-11 11:00:27.648869-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 11:00:27.345400-06:00_frame.jpg
+236,2023-05-11 11:30:34.285166-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 11:30:34.025314-06:00_frame.jpg
+237,2023-05-11 12:00:38.958154-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 12:00:38.663919-06:00_frame.jpg
+238,2023-05-11 12:31:01.807489-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 12:31:01.530404-06:00_frame.jpg
+239,2023-05-11 13:01:04.480059-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 13:01:04.169092-06:00_frame.jpg
+240,2023-05-11 13:31:12.203285-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 13:31:12.203285-06:00_frame.jpg
+241,2023-05-11 14:01:30.712657-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 14:01:30.408180-06:00_frame.jpg
+242,2023-05-11 14:31:34.536584-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 14:31:34.151616-06:00_frame.jpg
+243,2023-05-11 15:01:40.734932-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 15:01:40.491439-06:00_frame.jpg
+244,2023-05-11 15:31:43.836228-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 15:31:43.573057-06:00_frame.jpg
+245,2023-05-11 16:01:57.395842-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 16:01:57.131973-06:00_frame.jpg
+246,2023-05-11 16:32:04.447673-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 16:32:04.156169-06:00_frame.jpg
+247,2023-05-11 17:02:26.084464-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 17:02:25.816560-06:00_frame.jpg
+248,2023-05-11 17:32:38.221493-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 17:32:37.912330-06:00_frame.jpg
+249,2023-05-11 18:02:41.661849-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 18:02:41.384709-06:00_frame.jpg
+250,2023-05-11 18:32:53.921586-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 18:32:53.625257-06:00_frame.jpg
+251,2023-05-11 19:03:08.396027-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 19:03:07.838454-06:00_frame.jpg
+252,2023-05-11 19:33:24.237583-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 19:33:23.919740-06:00_frame.jpg
+253,2023-05-11 20:03:32.380049-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 20:03:32.100616-06:00_frame.jpg
+254,2023-05-11 20:33:44.273495-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 20:33:44.027341-06:00_frame.jpg
+255,2023-05-11 21:04:04.124970-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 21:04:03.778146-06:00_frame.jpg
+256,2023-05-11 21:34:15.538854-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-11 21:34:15.242425-06:00_frame.jpg
+257,2023-05-12 07:49:46.071110-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 07:49:46.071110-06:00_frame.jpg
+258,2023-05-12 08:19:48.289243-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 08:19:47.973255-06:00_frame.jpg
+259,2023-05-12 08:50:03.949342-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 08:50:03.617742-06:00_frame.jpg
+260,2023-05-12 09:20:11.832954-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 09:20:11.538818-06:00_frame.jpg
+261,2023-05-12 09:50:21.301506-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 09:50:21.016077-06:00_frame.jpg
+262,2023-05-12 10:20:22.753488-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 10:20:22.487702-06:00_frame.jpg
+263,2023-05-12 10:50:23.782935-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 10:50:23.519117-06:00_frame.jpg
+264,2023-05-12 11:20:34.543543-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 11:20:34.194279-06:00_frame.jpg
+265,2023-05-12 11:50:38.943368-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 11:50:38.612016-06:00_frame.jpg
+266,2023-05-12 12:21:00.119608-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 12:20:59.839756-06:00_frame.jpg
+267,2023-05-12 12:51:09.717104-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 12:51:09.414125-06:00_frame.jpg
+268,2023-05-12 13:21:17.661753-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 13:21:17.305104-06:00_frame.jpg
+269,2023-05-12 13:51:22.337846-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 13:51:22.070864-06:00_frame.jpg
+270,2023-05-12 14:21:42.424008-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 14:21:42.143024-06:00_frame.jpg
+271,2023-05-12 14:52:05.593629-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 14:52:05.321417-06:00_frame.jpg
+272,2023-05-12 15:22:24.745658-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 15:22:24.463713-06:00_frame.jpg
+273,2023-05-12 15:52:28.874771-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 15:52:28.566173-06:00_frame.jpg
+274,2023-05-12 16:22:31.479228-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 16:22:31.174896-06:00_frame.jpg
+275,2023-05-12 16:52:52.499661-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 16:52:52.159019-06:00_frame.jpg
+276,2023-05-12 17:22:53.833767-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 17:22:53.506027-06:00_frame.jpg
+277,2023-05-12 17:53:04.569474-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 17:53:04.272786-06:00_frame.jpg
+278,2023-05-12 18:23:23.132930-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 18:23:22.844042-06:00_frame.jpg
+279,2023-05-12 18:53:28.190791-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 18:53:27.915451-06:00_frame.jpg
+280,2023-05-12 19:23:45.411920-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 19:23:45.146620-06:00_frame.jpg
+281,2023-05-12 19:54:05.910983-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 19:54:05.625851-06:00_frame.jpg
+282,2023-05-12 20:24:15.552643-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 20:24:15.271798-06:00_frame.jpg
+283,2023-05-12 20:54:16.602611-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 20:54:16.303420-06:00_frame.jpg
+284,2023-05-12 21:24:29.550866-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 21:24:29.251918-06:00_frame.jpg
+285,2023-05-12 21:54:42.370606-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-12 21:54:42.117068-06:00_frame.jpg
+286,2023-05-13 08:08:46.279047-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 08:08:45.976400-06:00_frame.jpg
+287,2023-05-13 08:38:57.588091-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 08:38:57.295022-06:00_frame.jpg
+288,2023-05-13 09:09:11.660446-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 09:09:11.387161-06:00_frame.jpg
+289,2023-05-13 09:39:28.579824-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 09:39:28.291936-06:00_frame.jpg
+290,2023-05-13 10:09:42.899186-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 10:09:42.609038-06:00_frame.jpg
+291,2023-05-13 10:39:48.061898-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 10:39:47.768940-06:00_frame.jpg
+292,2023-05-13 11:09:56.940278-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 11:09:56.672644-06:00_frame.jpg
+293,2023-05-13 11:40:12.290133-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 11:40:12.003735-06:00_frame.jpg
+294,2023-05-13 12:10:23.408398-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 12:10:23.095817-06:00_frame.jpg
+295,2023-05-13 12:40:30.576611-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 12:40:30.305627-06:00_frame.jpg
+296,2023-05-13 13:10:51.936011-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 13:10:51.669004-06:00_frame.jpg
+297,2023-05-13 13:41:05.630494-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 13:41:05.353693-06:00_frame.jpg
+298,2023-05-13 14:11:20.984331-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 14:11:20.720023-06:00_frame.jpg
+299,2023-05-13 14:41:34.792869-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 14:41:34.513264-06:00_frame.jpg
+300,2023-05-13 15:11:42.186988-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 15:11:41.927955-06:00_frame.jpg
+301,2023-05-13 15:41:53.591131-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 15:41:53.289428-06:00_frame.jpg
+302,2023-05-13 16:12:07.211488-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 16:12:06.959891-06:00_frame.jpg
+303,2023-05-13 16:42:17.056166-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 16:42:16.801156-06:00_frame.jpg
+304,2023-05-13 17:12:25.616056-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 17:12:25.336696-06:00_frame.jpg
+305,2023-05-13 17:42:37.728779-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 17:42:37.469405-06:00_frame.jpg
+306,2023-05-13 18:12:51.162715-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 18:12:50.867400-06:00_frame.jpg
+307,2023-05-13 18:43:04.240330-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 18:43:03.943890-06:00_frame.jpg
+308,2023-05-13 19:13:16.882607-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 19:13:16.604981-06:00_frame.jpg
+309,2023-05-13 19:43:34.858662-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 19:43:34.575820-06:00_frame.jpg
+310,2023-05-13 20:13:43.831043-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 20:13:43.476192-06:00_frame.jpg
+311,2023-05-13 20:43:50.835254-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 20:43:50.559182-06:00_frame.jpg
+312,2023-05-13 21:13:59.720662-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 21:13:59.436108-06:00_frame.jpg
+313,2023-05-13 21:44:14.786469-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-13 21:44:14.521442-06:00_frame.jpg
+314,2023-05-14 08:36:48.834501-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 08:36:48.834501-06:00_frame.jpg
+315,2023-05-14 09:06:52.419393-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 09:06:52.133432-06:00_frame.jpg
+316,2023-05-14 09:36:55.599521-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 09:36:55.313535-06:00_frame.jpg
+317,2023-05-14 10:06:58.845786-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 10:06:58.577977-06:00_frame.jpg
+318,2023-05-14 10:37:05.804841-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 10:37:05.530102-06:00_frame.jpg
+319,2023-05-14 11:07:16.153380-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 11:07:15.852927-06:00_frame.jpg
+320,2023-05-14 11:37:22.122696-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 11:37:21.843146-06:00_frame.jpg
+321,2023-05-14 12:14:19.770232-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 12:14:19.770232-06:00_frame.jpg
+322,2023-05-14 12:48:50.960841-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 12:48:50.960841-06:00_frame.jpg
+323,2023-05-14 15:55:50.825767-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 15:55:50.825767-06:00_frame.jpg
+324,2023-05-14 16:50:51.028471-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 16:50:51.028471-06:00_frame.jpg
+325,2023-05-14 17:34:51.063964-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 17:34:51.063964-06:00_frame.jpg
+326,2023-05-14 18:23:05.958546-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 18:23:05.536517-06:00_frame.jpg
+327,2023-05-14 18:53:27.849281-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 18:53:27.558009-06:00_frame.jpg
+328,2023-05-14 19:23:36.502825-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 19:23:36.201876-06:00_frame.jpg
+329,2023-05-14 19:53:45.020663-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 19:53:44.740346-06:00_frame.jpg
+330,2023-05-14 20:23:56.299629-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 20:23:56.032878-06:00_frame.jpg
+331,2023-05-14 20:54:03.805599-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-14 20:54:03.805599-06:00_frame.jpg
+332,2023-05-15 08:03:57.664421-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 08:03:57.664421-06:00_frame.jpg
+333,2023-05-15 08:34:14.256568-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 08:34:13.839234-06:00_frame.jpg
+334,2023-05-15 09:04:36.382260-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 09:04:36.052853-06:00_frame.jpg
+335,2023-05-15 09:34:46.313363-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 09:34:46.027680-06:00_frame.jpg
+336,2023-05-15 10:05:01.960665-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 10:05:01.626258-06:00_frame.jpg
+337,2023-05-15 10:35:09.745923-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 10:35:09.441831-06:00_frame.jpg
+338,2023-05-15 11:05:19.175765-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 11:05:18.901277-06:00_frame.jpg
+339,2023-05-15 11:35:26.891208-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 11:35:26.543182-06:00_frame.jpg
+340,2023-05-15 12:05:47.911497-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 12:05:47.604282-06:00_frame.jpg
+341,2023-05-15 12:35:54.631847-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 12:35:54.329187-06:00_frame.jpg
+342,2023-05-15 13:06:04.886604-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 13:06:04.578358-06:00_frame.jpg
+343,2023-05-15 13:36:24.511412-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 13:36:24.160308-06:00_frame.jpg
+344,2023-05-15 14:06:47.270832-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 14:06:46.972568-06:00_frame.jpg
+345,2023-05-15 14:37:05.706206-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 14:37:05.420851-06:00_frame.jpg
+346,2023-05-15 15:07:07.682061-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 15:07:07.393044-06:00_frame.jpg
+347,2023-05-15 15:37:10.664930-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 15:37:10.350458-06:00_frame.jpg
+348,2023-05-15 16:07:17.084230-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 16:07:16.811173-06:00_frame.jpg
+349,2023-05-15 16:37:18.965530-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 16:37:18.664865-06:00_frame.jpg
+350,2023-05-15 17:07:40.335352-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 17:07:39.959196-06:00_frame.jpg
+351,2023-05-15 17:37:48.039684-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 17:37:47.734010-06:00_frame.jpg
+352,2023-05-15 18:07:49.086861-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 18:07:48.766093-06:00_frame.jpg
+353,2023-05-15 18:37:49.800660-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 18:37:49.475802-06:00_frame.jpg
+354,2023-05-15 19:08:07.482496-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 19:08:07.149687-06:00_frame.jpg
+355,2023-05-15 19:38:13.163975-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 19:38:12.871756-06:00_frame.jpg
+356,2023-05-15 20:08:37.495680-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 20:08:37.162131-06:00_frame.jpg
+357,2023-05-15 20:38:48.130102-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 20:38:47.809459-06:00_frame.jpg
+358,2023-05-15 21:08:56.820492-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 21:08:56.530794-06:00_frame.jpg
+359,2023-05-15 21:39:06.081484-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-15 21:39:05.751641-06:00_frame.jpg
+360,2023-05-16 08:13:29.643325-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 08:13:29.643325-06:00_frame.jpg
+361,2023-05-16 08:43:40.359078-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 08:43:40.068690-06:00_frame.jpg
+362,2023-05-16 09:13:40.585736-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 09:13:40.259758-06:00_frame.jpg
+363,2023-05-16 09:43:49.847960-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 09:43:49.517798-06:00_frame.jpg
+364,2023-05-16 10:13:55.786781-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 10:13:55.461069-06:00_frame.jpg
+365,2023-05-16 10:43:58.087826-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 10:43:57.779868-06:00_frame.jpg
+366,2023-05-16 11:14:03.295592-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 11:14:03.003231-06:00_frame.jpg
+367,2023-05-16 11:44:04.193864-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 11:44:03.914655-06:00_frame.jpg
+368,2023-05-16 12:14:13.719022-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 12:14:13.440981-06:00_frame.jpg
+369,2023-05-16 12:44:16.028177-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 12:44:15.682912-06:00_frame.jpg
+370,2023-05-16 13:14:38.807998-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 13:14:38.506389-06:00_frame.jpg
+371,2023-05-16 13:44:46.508323-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 13:44:46.194276-06:00_frame.jpg
+372,2023-05-16 14:15:02.807885-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 14:15:02.466656-06:00_frame.jpg
+373,2023-05-16 14:45:09.799002-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 14:45:09.483515-06:00_frame.jpg
+374,2023-05-16 15:15:11.924749-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 15:15:11.529216-06:00_frame.jpg
+375,2023-05-16 15:45:12.084910-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 15:45:11.748223-06:00_frame.jpg
+376,2023-05-16 16:15:21.463328-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 16:15:21.170512-06:00_frame.jpg
+377,2023-05-16 16:45:36.298405-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 16:45:36.008695-06:00_frame.jpg
+378,2023-05-16 17:15:41.111256-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 17:15:40.829380-06:00_frame.jpg
+379,2023-05-16 17:45:43.849243-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 17:45:43.543856-06:00_frame.jpg
+380,2023-05-16 18:15:55.607524-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 18:15:55.277583-06:00_frame.jpg
+381,2023-05-16 18:45:59.558247-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 18:45:59.558247-06:00_frame.jpg
+382,2023-05-16 19:16:04.145165-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 19:16:03.818481-06:00_frame.jpg
+383,2023-05-16 19:46:05.280198-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 19:46:04.962352-06:00_frame.jpg
+384,2023-05-16 20:16:16.273790-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 20:16:15.928543-06:00_frame.jpg
+385,2023-05-16 20:46:36.724219-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 20:46:36.419205-06:00_frame.jpg
+386,2023-05-16 21:16:53.578821-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 21:16:53.281950-06:00_frame.jpg
+387,2023-05-16 21:47:12.151733-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-16 21:47:11.842545-06:00_frame.jpg
+388,2023-05-17 08:10:04.185097-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 08:10:04.185097-06:00_frame.jpg
+389,2023-05-17 08:40:18.864684-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 08:40:18.539181-06:00_frame.jpg
+390,2023-05-17 09:10:39.220658-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 09:10:38.909934-06:00_frame.jpg
+391,2023-05-17 09:40:48.523970-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 09:40:48.195909-06:00_frame.jpg
+392,2023-05-17 10:11:05.081670-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 10:11:04.707210-06:00_frame.jpg
+393,2023-05-17 10:41:25.170190-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 10:41:24.912921-06:00_frame.jpg
+394,2023-05-17 11:11:41.901619-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 11:11:41.622731-06:00_frame.jpg
+395,2023-05-17 11:42:03.116532-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 11:42:02.860745-06:00_frame.jpg
+396,2023-05-17 12:12:04.116954-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 12:12:03.815075-06:00_frame.jpg
+397,2023-05-17 12:42:06.785312-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 12:42:06.456603-06:00_frame.jpg
+398,2023-05-17 13:12:28.921408-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 13:12:28.654258-06:00_frame.jpg
+399,2023-05-17 13:42:46.844940-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 13:42:46.586669-06:00_frame.jpg
+400,2023-05-17 14:12:51.178876-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 14:12:50.882470-06:00_frame.jpg
+401,2023-05-17 14:43:07.952101-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 14:43:07.687709-06:00_frame.jpg
+402,2023-05-17 15:13:32.726981-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 15:13:32.453154-06:00_frame.jpg
+403,2023-05-17 15:43:49.612774-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 15:43:49.354279-06:00_frame.jpg
+404,2023-05-17 16:14:04.354489-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 16:14:04.080598-06:00_frame.jpg
+405,2023-05-17 16:44:09.708637-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 16:44:09.414266-06:00_frame.jpg
+406,2023-05-17 17:14:18.689725-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 17:14:18.429507-06:00_frame.jpg
+407,2023-05-17 17:44:33.722254-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 17:44:33.444450-06:00_frame.jpg
+408,2023-05-17 18:14:37.101210-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 18:14:36.810298-06:00_frame.jpg
+409,2023-05-17 18:44:52.571465-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 18:44:52.282999-06:00_frame.jpg
+410,2023-05-17 19:14:59.265647-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 19:14:58.933241-06:00_frame.jpg
+411,2023-05-17 19:45:05.979420-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 19:45:05.673461-06:00_frame.jpg
+412,2023-05-17 20:15:06.165232-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 20:15:06.165232-06:00_frame.jpg
+413,2023-05-17 20:45:21.719019-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 20:45:21.399880-06:00_frame.jpg
+414,2023-05-17 21:15:28.602885-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 21:15:28.316809-06:00_frame.jpg
+415,2023-05-17 21:45:28.748452-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 21:45:28.423772-06:00_frame.jpg
+416,2023-05-17 22:15:36.035514-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-17 22:15:36.035514-06:00_frame.jpg
+417,2023-05-18 08:04:32.155491-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 08:04:32.155491-06:00_frame.jpg
+418,2023-05-18 08:34:42.670106-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 08:34:42.378545-06:00_frame.jpg
+419,2023-05-18 09:04:50.781262-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 09:04:50.472427-06:00_frame.jpg
+420,2023-05-18 09:34:56.207711-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 09:34:56.207711-06:00_frame.jpg
+421,2023-05-18 10:04:56.429371-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 10:04:56.429371-06:00_frame.jpg
+422,2023-05-18 10:35:14.886870-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 10:35:14.608772-06:00_frame.jpg
+423,2023-05-18 11:05:36.046004-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 11:05:35.714657-06:00_frame.jpg
+424,2023-05-18 11:35:48.710508-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 11:35:48.409603-06:00_frame.jpg
+425,2023-05-18 12:05:56.473129-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 12:05:56.473129-06:00_frame.jpg
+426,2023-05-18 12:35:56.746605-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 12:35:56.746605-06:00_frame.jpg
+427,2023-05-18 13:06:06.706475-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 13:06:06.400563-06:00_frame.jpg
+428,2023-05-18 13:36:30.495107-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 13:36:30.167537-06:00_frame.jpg
+429,2023-05-18 14:06:32.949852-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 14:06:32.633863-06:00_frame.jpg
+430,2023-05-18 14:36:53.722795-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 14:36:53.392056-06:00_frame.jpg
+431,2023-05-18 15:06:56.352264-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 15:06:56.352264-06:00_frame.jpg
+432,2023-05-18 15:37:15.913669-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 15:37:15.620085-06:00_frame.jpg
+433,2023-05-18 16:07:32.991592-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 16:07:32.655849-06:00_frame.jpg
+434,2023-05-18 16:37:41.849457-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 16:37:41.494446-06:00_frame.jpg
+435,2023-05-18 17:07:52.037143-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 17:07:51.689266-06:00_frame.jpg
+436,2023-05-18 17:38:08.213162-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 17:38:07.878518-06:00_frame.jpg
+437,2023-05-18 18:08:10.108978-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 18:08:09.790803-06:00_frame.jpg
+438,2023-05-18 18:38:19.412953-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 18:38:18.984547-06:00_frame.jpg
+439,2023-05-18 19:08:32.301789-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 19:08:31.946557-06:00_frame.jpg
+440,2023-05-18 19:38:44.309805-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 19:38:43.812114-06:00_frame.jpg
+441,2023-05-18 20:08:55.676896-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 20:08:55.356380-06:00_frame.jpg
+442,2023-05-18 20:38:57.074667-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 20:38:57.074667-06:00_frame.jpg
+443,2023-05-18 21:09:09.479132-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 21:09:09.143475-06:00_frame.jpg
+444,2023-05-18 21:39:12.336645-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-18 21:39:12.035170-06:00_frame.jpg
+445,2023-05-19 08:05:49.382212-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 08:05:49.382212-06:00_frame.jpg
+446,2023-05-19 08:36:02.429749-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 08:36:02.128282-06:00_frame.jpg
+447,2023-05-19 09:06:14.701633-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 09:06:14.421686-06:00_frame.jpg
+448,2023-05-19 09:36:21.398369-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 09:36:21.062188-06:00_frame.jpg
+449,2023-05-19 10:06:24.804595-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 10:06:24.501653-06:00_frame.jpg
+450,2023-05-19 10:36:35.757941-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 10:36:35.425752-06:00_frame.jpg
+451,2023-05-19 11:06:42.462413-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 11:06:42.462413-06:00_frame.jpg
+452,2023-05-19 11:36:42.887982-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 11:36:42.887982-06:00_frame.jpg
+453,2023-05-19 12:06:43.192096-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 12:06:43.192096-06:00_frame.jpg
+454,2023-05-19 12:36:52.774479-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 12:36:52.498403-06:00_frame.jpg
+455,2023-05-19 13:07:02.933965-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 13:07:02.621090-06:00_frame.jpg
+456,2023-05-19 13:37:07.939779-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 13:37:07.634134-06:00_frame.jpg
+457,2023-05-19 14:07:08.168726-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 14:07:07.889031-06:00_frame.jpg
+458,2023-05-19 14:37:28.568034-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 14:37:28.271177-06:00_frame.jpg
+459,2023-05-19 15:07:29.168938-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 15:07:28.926988-06:00_frame.jpg
+460,2023-05-19 15:37:43.460655-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 15:37:43.460655-06:00_frame.jpg
+461,2023-05-19 16:07:43.498301-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 16:07:43.163690-06:00_frame.jpg
+462,2023-05-19 16:37:44.405583-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 16:37:44.073728-06:00_frame.jpg
+463,2023-05-19 17:07:56.287018-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 17:07:55.973736-06:00_frame.jpg
+464,2023-05-19 17:38:19.574720-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 17:38:19.289538-06:00_frame.jpg
+465,2023-05-19 18:08:41.171500-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 18:08:40.848637-06:00_frame.jpg
+466,2023-05-19 18:39:00.653969-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 18:39:00.375191-06:00_frame.jpg
+467,2023-05-19 19:09:04.182056-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 19:09:03.863622-06:00_frame.jpg
+468,2023-05-19 19:39:24.676392-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 19:39:24.346369-06:00_frame.jpg
+469,2023-05-19 20:09:43.386707-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 20:09:43.386707-06:00_frame.jpg
+470,2023-05-19 20:40:05.040401-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 20:40:04.743304-06:00_frame.jpg
+471,2023-05-19 21:10:24.892087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 21:10:24.600346-06:00_frame.jpg
+472,2023-05-19 21:40:27.334871-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-19 21:40:27.041096-06:00_frame.jpg
+473,2023-05-20 07:58:01.952990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 07:58:01.952990-06:00_frame.jpg
+474,2023-05-20 08:28:09.996160-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 08:28:09.682335-06:00_frame.jpg
+475,2023-05-20 08:58:31.819657-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 08:58:31.513708-06:00_frame.jpg
+476,2023-05-20 09:28:51.845438-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 09:28:51.549895-06:00_frame.jpg
+477,2023-05-20 09:58:57.067360-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 09:58:56.785586-06:00_frame.jpg
+478,2023-05-20 10:29:06.342789-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 10:29:06.040620-06:00_frame.jpg
+479,2023-05-20 10:59:19.275094-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 10:59:18.995452-06:00_frame.jpg
+480,2023-05-20 11:29:28.939791-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 11:29:28.622281-06:00_frame.jpg
+481,2023-05-20 11:59:47.153467-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 11:59:46.866018-06:00_frame.jpg
+482,2023-05-20 12:30:06.451442-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 12:30:06.113914-06:00_frame.jpg
+483,2023-05-20 13:00:16.757312-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 13:00:16.444983-06:00_frame.jpg
+484,2023-05-20 13:30:39.076487-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 13:30:38.740365-06:00_frame.jpg
+485,2023-05-20 14:00:59.476171-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 14:00:59.153087-06:00_frame.jpg
+486,2023-05-20 14:31:22.691546-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 14:31:22.337817-06:00_frame.jpg
+487,2023-05-20 15:01:45.276475-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 15:01:44.950178-06:00_frame.jpg
+488,2023-05-20 15:32:06.907133-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 15:32:06.561958-06:00_frame.jpg
+489,2023-05-20 16:02:24.996794-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 16:02:24.707346-06:00_frame.jpg
+490,2023-05-20 16:32:38.056458-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 16:32:37.746370-06:00_frame.jpg
+491,2023-05-20 17:02:41.109771-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 17:02:41.109771-06:00_frame.jpg
+492,2023-05-20 17:32:53.010938-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 17:32:52.672523-06:00_frame.jpg
+493,2023-05-20 18:02:55.014776-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 18:02:54.715836-06:00_frame.jpg
+494,2023-05-20 18:32:56.965102-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 18:32:56.596619-06:00_frame.jpg
+495,2023-05-20 19:02:58.051013-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 19:02:57.721830-06:00_frame.jpg
+496,2023-05-20 19:33:06.412060-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 19:33:06.099750-06:00_frame.jpg
+497,2023-05-20 20:03:24.405225-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 20:03:24.081273-06:00_frame.jpg
+498,2023-05-20 20:33:47.509391-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 20:33:47.172707-06:00_frame.jpg
+499,2023-05-20 21:04:11.302847-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 21:04:10.970794-06:00_frame.jpg
+500,2023-05-20 21:34:15.318991-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 21:34:14.970779-06:00_frame.jpg
+501,2023-05-20 22:04:18.889057-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-20 22:04:18.889057-06:00_frame.jpg
+502,2023-05-21 08:34:35.832450-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 08:34:35.832450-06:00_frame.jpg
+503,2023-05-21 09:04:42.291177-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 09:04:42.291177-06:00_frame.jpg
+504,2023-05-21 09:34:42.830070-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 09:34:42.564040-06:00_frame.jpg
+505,2023-05-21 10:05:25.965184-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 10:05:25.635194-06:00_frame.jpg
+506,2023-05-21 10:35:37.818313-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 10:35:37.487334-06:00_frame.jpg
+507,2023-05-21 11:05:42.137032-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 11:05:42.137032-06:00_frame.jpg
+508,2023-05-21 11:35:50.210655-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 11:35:49.906793-06:00_frame.jpg
+509,2023-05-21 12:05:57.321992-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 12:05:56.995976-06:00_frame.jpg
+510,2023-05-21 12:36:17.396784-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 12:36:17.101898-06:00_frame.jpg
+511,2023-05-21 13:06:34.830658-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 13:06:34.544451-06:00_frame.jpg
+512,2023-05-21 13:36:52.570534-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 13:36:52.287390-06:00_frame.jpg
+513,2023-05-21 14:07:14.387936-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 14:07:14.090939-06:00_frame.jpg
+514,2023-05-21 14:37:23.311563-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 14:37:23.015540-06:00_frame.jpg
+515,2023-05-21 15:07:42.341170-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 15:07:42.341170-06:00_frame.jpg
+516,2023-05-21 15:37:59.855043-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 15:37:59.593854-06:00_frame.jpg
+517,2023-05-21 16:08:20.496424-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 16:08:20.234575-06:00_frame.jpg
+518,2023-05-21 16:38:30.949989-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 16:38:30.694712-06:00_frame.jpg
+519,2023-05-21 17:08:34.087521-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 17:08:33.795566-06:00_frame.jpg
+520,2023-05-21 17:38:38.170665-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 17:38:37.901699-06:00_frame.jpg
+521,2023-05-21 18:08:39.930098-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 18:08:39.613440-06:00_frame.jpg
+522,2023-05-21 18:38:40.508412-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 18:38:40.177898-06:00_frame.jpg
+523,2023-05-21 19:08:42.610860-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 19:08:42.610860-06:00_frame.jpg
+524,2023-05-21 19:38:52.375343-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 19:38:52.040429-06:00_frame.jpg
+525,2023-05-21 20:08:54.687314-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-21 20:08:54.687314-06:00_frame.jpg
+526,2023-05-22 08:03:45.054199-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 08:03:45.054199-06:00_frame.jpg
+527,2023-05-22 08:33:56.745345-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 08:33:56.457398-06:00_frame.jpg
+528,2023-05-22 09:04:11.530037-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 09:04:11.237768-06:00_frame.jpg
+529,2023-05-22 09:34:21.054770-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 09:34:20.717395-06:00_frame.jpg
+530,2023-05-22 10:04:28.652361-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 10:04:28.322523-06:00_frame.jpg
+531,2023-05-22 10:34:48.966980-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 10:34:48.638954-06:00_frame.jpg
+532,2023-05-22 11:05:03.274505-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 11:05:02.956531-06:00_frame.jpg
+533,2023-05-22 11:35:14.787087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 11:35:14.502210-06:00_frame.jpg
+534,2023-05-22 12:05:39.342172-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 12:05:38.991359-06:00_frame.jpg
+535,2023-05-22 12:35:51.299939-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 12:35:50.957024-06:00_frame.jpg
+536,2023-05-22 13:06:03.260727-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 13:06:02.945379-06:00_frame.jpg
+537,2023-05-22 13:36:14.788582-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 13:36:14.482976-06:00_frame.jpg
+538,2023-05-22 14:06:25.321426-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 14:06:25.023824-06:00_frame.jpg
+539,2023-05-22 14:36:37.443902-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 14:36:37.122737-06:00_frame.jpg
+540,2023-05-22 15:06:48.465857-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 15:06:48.167086-06:00_frame.jpg
+541,2023-05-22 15:36:49.712415-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 15:36:49.351269-06:00_frame.jpg
+542,2023-05-22 16:06:56.514880-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 16:06:56.159646-06:00_frame.jpg
+543,2023-05-22 16:36:58.126506-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 16:36:57.808312-06:00_frame.jpg
+544,2023-05-22 17:07:16.718754-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 17:07:16.383145-06:00_frame.jpg
+545,2023-05-22 17:37:32.914046-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 17:37:32.570197-06:00_frame.jpg
+546,2023-05-22 18:07:37.180068-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 18:07:36.804847-06:00_frame.jpg
+547,2023-05-22 18:38:01.020251-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 18:38:00.705646-06:00_frame.jpg
+548,2023-05-22 19:08:09.268672-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 19:08:08.904196-06:00_frame.jpg
+549,2023-05-22 19:38:32.520578-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 19:38:32.156037-06:00_frame.jpg
+550,2023-05-22 20:08:42.924076-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 20:08:42.621662-06:00_frame.jpg
+551,2023-05-22 20:38:47.654142-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 20:38:47.334438-06:00_frame.jpg
+552,2023-05-22 21:08:50.253264-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 21:08:49.897547-06:00_frame.jpg
+553,2023-05-22 21:38:58.477753-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-22 21:38:58.477753-06:00_frame.jpg
+554,2023-05-23 07:57:48.724199-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 07:57:48.724199-06:00_frame.jpg
+555,2023-05-23 08:28:08.141555-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 08:28:07.785934-06:00_frame.jpg
+556,2023-05-23 08:58:11.601891-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 08:58:11.305904-06:00_frame.jpg
+557,2023-05-23 09:28:22.841215-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 09:28:22.841215-06:00_frame.jpg
+558,2023-05-23 09:58:25.607469-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 09:58:25.259317-06:00_frame.jpg
+559,2023-05-23 10:28:35.993991-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 10:28:35.700247-06:00_frame.jpg
+560,2023-05-23 10:58:41.618782-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 10:58:41.288765-06:00_frame.jpg
+561,2023-05-23 11:29:03.634718-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 11:29:03.285754-06:00_frame.jpg
+562,2023-05-23 11:59:10.333711-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 11:59:10.020078-06:00_frame.jpg
+563,2023-05-23 12:29:19.223996-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 12:29:18.921241-06:00_frame.jpg
+564,2023-05-23 12:59:22.960683-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 12:59:22.960683-06:00_frame.jpg
+565,2023-05-23 13:29:23.205501-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 13:29:23.205501-06:00_frame.jpg
+566,2023-05-23 13:59:40.216999-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 13:59:39.836396-06:00_frame.jpg
+567,2023-05-23 14:29:43.133313-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 14:29:42.837733-06:00_frame.jpg
+568,2023-05-23 14:59:46.938626-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 14:59:46.620102-06:00_frame.jpg
+569,2023-05-23 15:29:56.392628-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 15:29:56.103119-06:00_frame.jpg
+570,2023-05-23 16:00:00.982113-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 16:00:00.661368-06:00_frame.jpg
+571,2023-05-23 16:30:14.659494-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 16:30:14.351843-06:00_frame.jpg
+572,2023-05-23 17:00:16.977586-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 17:00:16.706698-06:00_frame.jpg
+573,2023-05-23 17:31:00.366413-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 17:31:00.075793-06:00_frame.jpg
+574,2023-05-23 18:01:01.610244-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 18:01:01.331338-06:00_frame.jpg
+575,2023-05-23 18:31:06.621627-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 18:31:06.329469-06:00_frame.jpg
+576,2023-05-23 19:01:07.954550-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 19:01:07.533376-06:00_frame.jpg
+577,2023-05-23 19:31:23.582686-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 19:31:23.582686-06:00_frame.jpg
+578,2023-05-23 20:01:38.100899-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 20:01:37.775204-06:00_frame.jpg
+579,2023-05-23 20:31:59.500766-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 20:31:59.185670-06:00_frame.jpg
+580,2023-05-23 21:02:17.665517-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 21:02:17.327071-06:00_frame.jpg
+581,2023-05-23 21:32:18.184196-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-23 21:32:17.847090-06:00_frame.jpg
+582,2023-05-24 08:16:41.094924-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 08:16:41.094924-06:00_frame.jpg
+583,2023-05-24 08:46:53.811054-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 08:46:53.526490-06:00_frame.jpg
+584,2023-05-24 09:17:16.642279-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 09:17:16.203911-06:00_frame.jpg
+585,2023-05-24 09:47:28.620805-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 09:47:28.309038-06:00_frame.jpg
+586,2023-05-24 10:17:50.864643-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 10:17:50.516999-06:00_frame.jpg
+587,2023-05-24 10:48:13.097899-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 10:48:12.788826-06:00_frame.jpg
+588,2023-05-24 11:18:33.078725-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 11:18:32.736340-06:00_frame.jpg
+589,2023-05-24 11:48:37.602991-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 11:48:37.315304-06:00_frame.jpg
+590,2023-05-24 12:18:38.517809-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 12:18:38.227464-06:00_frame.jpg
+591,2023-05-24 12:48:53.664065-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 12:48:53.369328-06:00_frame.jpg
+592,2023-05-24 13:18:54.569191-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 13:18:54.241780-06:00_frame.jpg
+593,2023-05-24 13:48:57.227287-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 13:48:56.970305-06:00_frame.jpg
+594,2023-05-24 14:19:16.531508-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 14:19:16.171836-06:00_frame.jpg
+595,2023-05-24 14:49:28.510882-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 14:49:28.237240-06:00_frame.jpg
+596,2023-05-24 15:19:37.821937-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 15:19:37.529368-06:00_frame.jpg
+597,2023-05-24 15:49:45.561184-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 15:49:45.292648-06:00_frame.jpg
+598,2023-05-24 16:19:58.865490-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 16:19:58.586815-06:00_frame.jpg
+599,2023-05-24 16:50:11.295901-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 16:50:10.990973-06:00_frame.jpg
+600,2023-05-24 17:20:32.589564-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 17:20:32.243439-06:00_frame.jpg
+601,2023-05-24 17:50:52.027691-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 17:50:51.765249-06:00_frame.jpg
+602,2023-05-24 18:20:57.269627-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 18:20:56.967747-06:00_frame.jpg
+603,2023-05-24 18:51:07.130059-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 18:51:06.843536-06:00_frame.jpg
+604,2023-05-24 19:21:22.412592-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 19:21:22.115860-06:00_frame.jpg
+605,2023-05-24 19:51:28.595517-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 19:51:28.257476-06:00_frame.jpg
+606,2023-05-24 20:21:30.730597-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 20:21:30.433791-06:00_frame.jpg
+607,2023-05-24 20:51:54.579648-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 20:51:54.286884-06:00_frame.jpg
+608,2023-05-24 21:22:17.019705-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-24 21:22:16.698140-06:00_frame.jpg
+609,2023-05-25 07:59:55.468510-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 07:59:54.913301-06:00_frame.jpg
+610,2023-05-25 08:29:59.753238-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 08:29:59.464994-06:00_frame.jpg
+611,2023-05-25 09:00:07.950566-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 09:00:07.601099-06:00_frame.jpg
+612,2023-05-25 09:30:20.865339-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 09:30:20.509992-06:00_frame.jpg
+613,2023-05-25 10:00:33.646953-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 10:00:33.359958-06:00_frame.jpg
+614,2023-05-25 10:30:45.452108-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 10:30:45.141053-06:00_frame.jpg
+615,2023-05-25 11:01:08.581829-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 11:01:08.275465-06:00_frame.jpg
+616,2023-05-25 11:31:11.375793-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 11:31:11.087848-06:00_frame.jpg
+617,2023-05-25 12:01:33.650389-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 12:01:33.650389-06:00_frame.jpg
+618,2023-05-25 12:31:33.898462-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 12:31:33.898462-06:00_frame.jpg
+619,2023-05-25 13:01:43.844470-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 13:01:43.468874-06:00_frame.jpg
+620,2023-05-25 13:31:50.833721-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 13:31:50.510995-06:00_frame.jpg
+621,2023-05-25 14:01:59.014249-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 14:01:58.725960-06:00_frame.jpg
+622,2023-05-25 14:32:02.789759-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 14:32:02.388547-06:00_frame.jpg
+623,2023-05-25 15:02:20.738353-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 15:02:20.401042-06:00_frame.jpg
+624,2023-05-25 15:32:29.313292-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 15:32:29.030872-06:00_frame.jpg
+625,2023-05-25 16:02:33.869857-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 16:02:33.869857-06:00_frame.jpg
+626,2023-05-25 16:32:34.020836-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 16:32:34.020836-06:00_frame.jpg
+627,2023-05-25 17:02:34.132597-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 17:02:34.132597-06:00_frame.jpg
+628,2023-05-25 17:32:55.530589-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 17:32:55.225952-06:00_frame.jpg
+629,2023-05-25 18:04:19.743078-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 18:04:19.432918-06:00_frame.jpg
+630,2023-05-25 18:34:38.906033-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 18:34:38.596679-06:00_frame.jpg
+631,2023-05-25 19:06:50.821046-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 19:06:50.479004-06:00_frame.jpg
+632,2023-05-25 19:36:56.185985-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 19:36:55.863000-06:00_frame.jpg
+633,2023-05-25 20:07:07.099501-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 20:07:06.760146-06:00_frame.jpg
+634,2023-05-25 20:37:28.287814-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 20:37:27.975983-06:00_frame.jpg
+635,2023-05-25 21:07:47.808711-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 21:07:47.470024-06:00_frame.jpg
+636,2023-05-25 21:38:13.436593-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-25 21:38:13.135512-06:00_frame.jpg
+637,2023-05-26 08:00:58.929462-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 08:00:58.929462-06:00_frame.jpg
+638,2023-05-26 08:31:08.075742-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 08:31:07.786875-06:00_frame.jpg
+639,2023-05-26 09:01:24.513029-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 09:01:24.231831-06:00_frame.jpg
+640,2023-05-26 09:31:42.402809-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 09:31:42.135729-06:00_frame.jpg
+641,2023-05-26 10:01:53.837949-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 10:01:53.520361-06:00_frame.jpg
+642,2023-05-26 10:32:05.370494-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 10:32:05.046980-06:00_frame.jpg
+643,2023-05-26 11:02:06.596214-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 11:02:06.305333-06:00_frame.jpg
+644,2023-05-26 11:32:23.933256-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 11:32:23.652238-06:00_frame.jpg
+645,2023-05-26 12:02:43.575146-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 12:02:43.295187-06:00_frame.jpg
+646,2023-05-26 12:32:55.820140-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 12:32:55.480557-06:00_frame.jpg
+647,2023-05-26 13:03:06.747510-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 13:03:06.412725-06:00_frame.jpg
+648,2023-05-26 13:33:21.802384-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 13:33:21.464977-06:00_frame.jpg
+649,2023-05-26 14:03:28.490633-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 14:03:28.183216-06:00_frame.jpg
+650,2023-05-26 14:33:32.142834-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 14:33:31.902348-06:00_frame.jpg
+651,2023-05-26 15:03:35.480895-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 15:03:35.193332-06:00_frame.jpg
+652,2023-05-26 15:33:54.260504-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 15:33:54.009660-06:00_frame.jpg
+653,2023-05-26 16:04:00.228063-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 16:03:59.935209-06:00_frame.jpg
+654,2023-05-26 16:34:22.170981-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 16:34:21.855473-06:00_frame.jpg
+655,2023-05-26 17:04:40.243892-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 17:04:39.831964-06:00_frame.jpg
+656,2023-05-26 17:35:03.372857-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 17:35:03.052293-06:00_frame.jpg
+657,2023-05-26 18:05:27.113455-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 18:05:26.826717-06:00_frame.jpg
+658,2023-05-26 18:35:37.794589-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 18:35:37.478437-06:00_frame.jpg
+659,2023-05-26 19:05:50.132713-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 19:05:49.832070-06:00_frame.jpg
+660,2023-05-26 19:36:03.703791-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 19:36:03.417970-06:00_frame.jpg
+661,2023-05-26 20:06:20.570819-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 20:06:20.292802-06:00_frame.jpg
+662,2023-05-26 20:36:38.701062-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 20:36:38.426067-06:00_frame.jpg
+663,2023-05-26 21:06:53.701192-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 21:06:53.433964-06:00_frame.jpg
+664,2023-05-26 21:37:07.569244-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-26 21:37:07.292126-06:00_frame.jpg
+665,2023-05-27 07:57:13.885097-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 07:57:13.885097-06:00_frame.jpg
+666,2023-05-27 08:27:21.838148-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 08:27:21.590543-06:00_frame.jpg
+667,2023-05-27 08:57:36.368403-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 08:57:36.068490-06:00_frame.jpg
+668,2023-05-27 09:27:43.327236-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 09:27:43.016721-06:00_frame.jpg
+669,2023-05-27 09:58:00.220116-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 09:57:59.899693-06:00_frame.jpg
+670,2023-05-27 10:28:18.716846-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 10:28:18.384427-06:00_frame.jpg
+671,2023-05-27 10:58:37.944482-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 10:58:37.650786-06:00_frame.jpg
+672,2023-05-27 11:28:42.143046-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 11:28:41.871710-06:00_frame.jpg
+673,2023-05-27 11:58:59.601839-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 11:58:59.323874-06:00_frame.jpg
+674,2023-05-27 12:29:17.272577-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 12:29:16.928133-06:00_frame.jpg
+675,2023-05-27 12:59:26.474344-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 12:59:26.153403-06:00_frame.jpg
+676,2023-05-27 13:29:49.163104-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 13:29:48.895805-06:00_frame.jpg
+677,2023-05-27 14:00:01.195773-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 14:00:00.886280-06:00_frame.jpg
+678,2023-05-27 14:30:02.625913-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 14:30:02.295590-06:00_frame.jpg
+679,2023-05-27 15:00:25.682948-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 15:00:25.409097-06:00_frame.jpg
+680,2023-05-27 15:30:32.486064-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 15:30:32.186554-06:00_frame.jpg
+681,2023-05-27 16:00:41.105407-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 16:00:40.820789-06:00_frame.jpg
+682,2023-05-27 16:30:50.311267-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 16:30:50.022376-06:00_frame.jpg
+683,2023-05-27 17:00:57.669862-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 17:00:57.353083-06:00_frame.jpg
+684,2023-05-27 17:31:13.950832-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 17:31:13.640252-06:00_frame.jpg
+685,2023-05-27 18:01:23.275194-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 18:01:22.968121-06:00_frame.jpg
+686,2023-05-27 18:31:28.843809-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 18:31:28.521541-06:00_frame.jpg
+687,2023-05-27 19:01:45.336531-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 19:01:45.076072-06:00_frame.jpg
+688,2023-05-27 19:32:08.565799-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 19:32:08.280840-06:00_frame.jpg
+689,2023-05-27 20:02:24.649242-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 20:02:24.359291-06:00_frame.jpg
+690,2023-05-27 20:32:28.383133-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 20:32:28.073449-06:00_frame.jpg
+691,2023-05-27 21:02:33.583377-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 21:02:33.312891-06:00_frame.jpg
+692,2023-05-27 21:32:53.917534-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 21:32:53.644838-06:00_frame.jpg
+693,2023-05-27 22:03:00.281604-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-27 22:03:00.281604-06:00_frame.jpg
+694,2023-05-28 08:38:52.090010-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 08:38:52.090010-06:00_frame.jpg
+695,2023-05-28 09:09:06.947699-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 09:09:06.650576-06:00_frame.jpg
+696,2023-05-28 09:39:07.093920-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 09:39:06.835788-06:00_frame.jpg
+697,2023-05-28 10:09:21.844648-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 10:09:21.574173-06:00_frame.jpg
+698,2023-05-28 10:39:31.940178-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 10:39:31.645010-06:00_frame.jpg
+699,2023-05-28 11:09:37.334241-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 11:09:37.047242-06:00_frame.jpg
+700,2023-05-28 11:39:59.809280-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 11:39:59.557470-06:00_frame.jpg
+701,2023-05-28 12:10:06.217069-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 12:10:05.945151-06:00_frame.jpg
+702,2023-05-28 12:40:07.509535-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 12:40:07.223572-06:00_frame.jpg
+703,2023-05-28 13:10:08.072019-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 13:10:07.782573-06:00_frame.jpg
+704,2023-05-28 13:40:26.173644-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 13:40:25.910221-06:00_frame.jpg
+705,2023-05-28 14:10:33.543266-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 14:10:33.303901-06:00_frame.jpg
+706,2023-05-28 14:40:40.421237-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 14:40:40.123459-06:00_frame.jpg
+707,2023-05-28 15:10:49.311197-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 15:10:49.026500-06:00_frame.jpg
+708,2023-05-28 15:40:55.288918-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 15:40:55.046252-06:00_frame.jpg
+709,2023-05-28 16:11:11.748676-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 16:11:11.471949-06:00_frame.jpg
+710,2023-05-28 16:41:33.103072-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 16:41:32.834718-06:00_frame.jpg
+711,2023-05-28 17:11:47.851495-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 17:11:47.585504-06:00_frame.jpg
+712,2023-05-28 17:41:52.524777-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 17:41:52.252160-06:00_frame.jpg
+713,2023-05-28 18:12:07.060633-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 18:12:06.810934-06:00_frame.jpg
+714,2023-05-28 18:42:30.194898-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 18:42:29.941267-06:00_frame.jpg
+715,2023-05-28 19:12:39.661849-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 19:12:39.419502-06:00_frame.jpg
+716,2023-05-28 19:43:02.456582-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 19:43:02.177037-06:00_frame.jpg
+717,2023-05-28 20:13:03.190307-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-28 20:13:02.883731-06:00_frame.jpg
+718,2023-05-29 08:01:08.956339-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 08:01:08.956339-06:00_frame.jpg
+719,2023-05-29 08:31:23.440681-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 08:31:23.140486-06:00_frame.jpg
+720,2023-05-29 09:01:35.709917-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 09:01:35.418339-06:00_frame.jpg
+721,2023-05-29 09:31:50.282846-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 09:31:49.966172-06:00_frame.jpg
+722,2023-05-29 10:02:02.956244-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 10:02:02.686169-06:00_frame.jpg
+723,2023-05-29 10:32:20.289519-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 10:32:19.998613-06:00_frame.jpg
+724,2023-05-29 11:02:41.091019-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 11:02:40.763047-06:00_frame.jpg
+725,2023-05-29 11:32:43.936519-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 11:32:43.637427-06:00_frame.jpg
+726,2023-05-29 12:02:52.795337-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 12:02:52.510790-06:00_frame.jpg
+727,2023-05-29 12:33:09.165283-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 12:33:08.892651-06:00_frame.jpg
+728,2023-05-29 13:03:33.430316-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 13:03:33.134162-06:00_frame.jpg
+729,2023-05-29 13:33:39.120152-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 13:33:38.837540-06:00_frame.jpg
+730,2023-05-29 14:03:56.964910-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 14:03:56.672847-06:00_frame.jpg
+731,2023-05-29 14:33:58.216401-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 14:33:57.960693-06:00_frame.jpg
+732,2023-05-29 15:04:05.521139-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 15:04:05.239394-06:00_frame.jpg
+733,2023-05-29 15:34:26.523530-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 15:34:26.260243-06:00_frame.jpg
+734,2023-05-29 16:04:33.283811-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 16:04:33.003278-06:00_frame.jpg
+735,2023-05-29 16:34:43.502127-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 16:34:43.209993-06:00_frame.jpg
+736,2023-05-29 17:05:04.295614-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 17:05:04.018471-06:00_frame.jpg
+737,2023-05-29 17:35:18.533564-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 17:35:18.256040-06:00_frame.jpg
+738,2023-05-29 18:05:41.509088-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 18:05:41.212636-06:00_frame.jpg
+739,2023-05-29 18:35:55.326296-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 18:35:55.016171-06:00_frame.jpg
+740,2023-05-29 19:06:18.215686-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 19:06:17.880340-06:00_frame.jpg
+741,2023-05-29 19:36:28.388030-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 19:36:28.105192-06:00_frame.jpg
+742,2023-05-29 20:06:28.752618-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 20:06:28.421588-06:00_frame.jpg
+743,2023-05-29 20:36:32.301586-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 20:36:31.990329-06:00_frame.jpg
+744,2023-05-29 21:06:49.130087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 21:06:48.828067-06:00_frame.jpg
+745,2023-05-29 21:37:10.229450-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-29 21:37:09.949308-06:00_frame.jpg
+746,2023-05-30 08:08:51.704927-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 08:08:51.704927-06:00_frame.jpg
+747,2023-05-30 08:39:09.378874-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 08:39:09.083289-06:00_frame.jpg
+748,2023-05-30 09:09:14.202990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 09:09:14.202990-06:00_frame.jpg
+749,2023-05-30 09:39:14.529492-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 09:39:14.529492-06:00_frame.jpg
+750,2023-05-30 10:09:24.753452-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 10:09:24.505820-06:00_frame.jpg
+751,2023-05-30 10:39:45.875001-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 10:39:45.628283-06:00_frame.jpg
+752,2023-05-30 11:10:09.294996-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 11:10:08.908683-06:00_frame.jpg
+753,2023-05-30 11:40:25.651925-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 11:40:25.377198-06:00_frame.jpg
+754,2023-05-30 12:10:45.192031-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 12:10:44.924482-06:00_frame.jpg
+755,2023-05-30 12:40:45.307474-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 12:40:45.019342-06:00_frame.jpg
+756,2023-05-30 13:11:02.761057-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 13:11:02.456113-06:00_frame.jpg
+757,2023-05-30 13:41:14.647540-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 13:41:14.647540-06:00_frame.jpg
+758,2023-05-30 14:11:30.805901-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 14:11:30.492940-06:00_frame.jpg
+759,2023-05-30 14:41:45.286468-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 14:41:44.935352-06:00_frame.jpg
+760,2023-05-30 15:11:52.833595-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 15:11:52.555506-06:00_frame.jpg
+761,2023-05-30 15:42:04.605200-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 15:42:04.177891-06:00_frame.jpg
+762,2023-05-30 16:12:14.681498-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 16:12:14.681498-06:00_frame.jpg
+763,2023-05-30 16:42:14.740293-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 16:42:14.740293-06:00_frame.jpg
+764,2023-05-30 17:12:25.375897-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 17:12:25.070319-06:00_frame.jpg
+765,2023-05-30 17:42:35.628180-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 17:42:35.311582-06:00_frame.jpg
+766,2023-05-30 18:12:56.421259-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 18:12:56.107722-06:00_frame.jpg
+767,2023-05-30 18:43:17.676253-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 18:43:17.385580-06:00_frame.jpg
+768,2023-05-30 19:13:25.667033-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 19:13:25.365899-06:00_frame.jpg
+769,2023-05-30 19:43:46.276767-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 19:43:45.914480-06:00_frame.jpg
+770,2023-05-30 20:13:58.168878-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 20:13:57.793759-06:00_frame.jpg
+771,2023-05-30 20:43:58.422955-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 20:43:58.124058-06:00_frame.jpg
+772,2023-05-30 21:14:15.168226-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 21:14:15.168226-06:00_frame.jpg
+773,2023-05-30 21:44:31.402896-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-30 21:44:31.101698-06:00_frame.jpg
+774,2023-05-31 07:55:30.835086-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 07:55:30.835086-06:00_frame.jpg
+775,2023-05-31 08:25:47.386246-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 08:25:47.095890-06:00_frame.jpg
+776,2023-05-31 08:55:56.423242-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 08:55:56.063280-06:00_frame.jpg
+777,2023-05-31 09:26:04.538346-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 09:26:04.220918-06:00_frame.jpg
+778,2023-05-31 09:56:13.978425-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 09:56:13.646552-06:00_frame.jpg
+779,2023-05-31 10:26:21.828773-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 10:26:21.521158-06:00_frame.jpg
+780,2023-05-31 10:56:42.354671-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 10:56:41.979629-06:00_frame.jpg
+781,2023-05-31 11:26:55.774508-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 11:26:55.489442-06:00_frame.jpg
+782,2023-05-31 11:57:08.756149-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 11:57:08.432637-06:00_frame.jpg
+783,2023-05-31 12:27:25.274761-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 12:27:24.998391-06:00_frame.jpg
+784,2023-05-31 12:57:26.488059-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 12:57:26.488059-06:00_frame.jpg
+785,2023-05-31 13:27:44.323545-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 13:27:44.034650-06:00_frame.jpg
+786,2023-05-31 13:57:53.101622-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 13:57:52.747483-06:00_frame.jpg
+787,2023-05-31 14:28:08.979547-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 14:28:08.700755-06:00_frame.jpg
+788,2023-05-31 14:58:19.851828-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 14:58:19.529440-06:00_frame.jpg
+789,2023-05-31 15:28:32.114984-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 15:28:31.812869-06:00_frame.jpg
+790,2023-05-31 15:58:38.145860-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 15:58:37.856633-06:00_frame.jpg
+791,2023-05-31 16:28:47.830790-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 16:28:47.564874-06:00_frame.jpg
+792,2023-05-31 16:58:50.221051-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 16:58:49.905287-06:00_frame.jpg
+793,2023-05-31 17:29:06.365030-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 17:29:06.085445-06:00_frame.jpg
+794,2023-05-31 17:59:19.264354-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 17:59:18.934182-06:00_frame.jpg
+795,2023-05-31 18:29:40.913366-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 18:29:40.588665-06:00_frame.jpg
+796,2023-05-31 18:59:58.203611-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 18:59:57.849171-06:00_frame.jpg
+797,2023-05-31 19:30:07.942966-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 19:30:07.633597-06:00_frame.jpg
+798,2023-05-31 20:00:13.509186-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 20:00:13.231728-06:00_frame.jpg
+799,2023-05-31 20:30:25.851445-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 20:30:25.554652-06:00_frame.jpg
+800,2023-05-31 21:00:39.574553-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 21:00:39.287758-06:00_frame.jpg
+801,2023-05-31 21:30:57.068430-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 21:30:56.788013-06:00_frame.jpg
+802,2023-05-31 22:01:04.620623-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-05-31 22:01:04.620623-06:00_frame.jpg
+803,2023-06-01 08:07:53.902952-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 08:07:53.902952-06:00_frame.jpg
+804,2023-06-01 08:38:00.740537-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 08:38:00.420550-06:00_frame.jpg
+805,2023-06-01 09:08:18.778827-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 09:08:18.469800-06:00_frame.jpg
+806,2023-06-01 09:38:19.996600-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 09:38:19.633892-06:00_frame.jpg
+807,2023-06-01 10:08:24.527341-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 10:08:24.224946-06:00_frame.jpg
+808,2023-06-01 10:38:39.309413-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 10:38:38.980340-06:00_frame.jpg
+809,2023-06-01 11:08:53.671165-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 11:08:53.309962-06:00_frame.jpg
+810,2023-06-01 11:39:08.323908-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 11:39:08.037083-06:00_frame.jpg
+811,2023-06-01 12:09:19.357405-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 12:09:19.054314-06:00_frame.jpg
+812,2023-06-01 12:39:31.661343-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 12:39:31.661343-06:00_frame.jpg
+813,2023-06-01 13:09:32.168300-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 13:09:32.168300-06:00_frame.jpg
+814,2023-06-01 13:39:55.127491-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 13:39:54.834394-06:00_frame.jpg
+815,2023-06-01 14:10:16.492916-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 14:10:16.192587-06:00_frame.jpg
+816,2023-06-01 14:40:31.693040-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 14:40:31.693040-06:00_frame.jpg
+817,2023-06-01 15:10:39.805955-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 15:10:39.503158-06:00_frame.jpg
+818,2023-06-01 15:40:50.575030-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 15:40:50.231058-06:00_frame.jpg
+819,2023-06-01 16:11:06.896869-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 16:11:06.581514-06:00_frame.jpg
+820,2023-06-01 16:41:21.141220-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 16:41:20.838944-06:00_frame.jpg
+821,2023-06-01 17:11:27.350402-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 17:11:26.969279-06:00_frame.jpg
+822,2023-06-01 17:41:32.424576-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 17:41:32.424576-06:00_frame.jpg
+823,2023-06-01 18:11:44.538734-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 18:11:44.201085-06:00_frame.jpg
+824,2023-06-01 18:41:55.024298-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 18:41:54.730510-06:00_frame.jpg
+825,2023-06-01 19:12:09.751105-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 19:12:09.443414-06:00_frame.jpg
+826,2023-06-01 19:42:11.799284-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 19:42:11.391076-06:00_frame.jpg
+827,2023-06-01 20:12:24.561925-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 20:12:24.230537-06:00_frame.jpg
+828,2023-06-01 20:42:27.033611-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 20:42:26.735653-06:00_frame.jpg
+829,2023-06-01 21:12:39.733494-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 21:12:39.358424-06:00_frame.jpg
+830,2023-06-01 21:42:41.259291-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-01 21:42:40.971525-06:00_frame.jpg
+831,2023-06-02 08:02:01.749990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 08:02:01.749990-06:00_frame.jpg
+832,2023-06-02 08:32:18.516898-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 08:32:18.233360-06:00_frame.jpg
+833,2023-06-02 09:02:29.248014-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 09:02:28.963370-06:00_frame.jpg
+834,2023-06-02 09:32:50.216070-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 09:32:49.873394-06:00_frame.jpg
+835,2023-06-02 10:03:06.850398-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 10:03:06.539259-06:00_frame.jpg
+836,2023-06-02 10:33:26.406751-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 10:33:26.098983-06:00_frame.jpg
+837,2023-06-02 11:03:48.719799-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 11:03:48.402930-06:00_frame.jpg
+838,2023-06-02 11:34:07.441263-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 11:34:07.094400-06:00_frame.jpg
+839,2023-06-02 12:04:09.195286-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 12:04:08.859306-06:00_frame.jpg
+840,2023-06-02 12:34:24.095475-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 12:34:23.752884-06:00_frame.jpg
+841,2023-06-02 13:04:30.859648-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 13:04:30.536411-06:00_frame.jpg
+842,2023-06-02 13:34:39.868535-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 13:34:39.526938-06:00_frame.jpg
+843,2023-06-02 14:04:44.619512-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 14:04:44.302373-06:00_frame.jpg
+844,2023-06-02 14:34:47.564923-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 14:34:47.219219-06:00_frame.jpg
+845,2023-06-02 15:04:49.817668-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 15:04:49.530841-06:00_frame.jpg
+846,2023-06-02 15:34:49.901251-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 15:34:49.598985-06:00_frame.jpg
+847,2023-06-02 16:05:03.427902-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 16:05:03.142578-06:00_frame.jpg
+848,2023-06-02 16:35:24.242921-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 16:35:23.931227-06:00_frame.jpg
+849,2023-06-02 17:05:28.630382-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 17:05:28.298295-06:00_frame.jpg
+850,2023-06-02 17:35:29.003797-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 17:35:28.722259-06:00_frame.jpg
+851,2023-06-02 18:05:50.524885-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 18:05:50.178989-06:00_frame.jpg
+852,2023-06-02 18:36:03.496918-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 18:36:03.178399-06:00_frame.jpg
+853,2023-06-02 19:06:07.086811-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 19:06:06.739758-06:00_frame.jpg
+854,2023-06-02 19:36:31.031445-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 19:36:30.705925-06:00_frame.jpg
+855,2023-06-02 20:06:43.785388-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 20:06:43.441719-06:00_frame.jpg
+856,2023-06-02 20:36:58.711181-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 20:36:58.401328-06:00_frame.jpg
+857,2023-06-02 21:07:15.874753-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 21:07:15.553503-06:00_frame.jpg
+858,2023-06-02 21:37:18.477671-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 21:37:18.202926-06:00_frame.jpg
+859,2023-06-02 22:07:21.135469-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-02 22:07:21.135469-06:00_frame.jpg
+860,2023-06-03 08:04:37.853952-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 08:04:37.853952-06:00_frame.jpg
+861,2023-06-03 08:34:59.045736-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 08:34:58.758837-06:00_frame.jpg
+862,2023-06-03 09:05:00.829544-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 09:05:00.534698-06:00_frame.jpg
+863,2023-06-03 09:35:16.847103-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 09:35:16.570829-06:00_frame.jpg
+864,2023-06-03 10:05:22.406221-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 10:05:22.056819-06:00_frame.jpg
+865,2023-06-03 10:35:44.512880-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 10:35:44.236382-06:00_frame.jpg
+866,2023-06-03 11:05:48.869925-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 11:05:48.582735-06:00_frame.jpg
+867,2023-06-03 11:36:05.885593-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 11:36:05.594241-06:00_frame.jpg
+868,2023-06-03 12:06:14.537522-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 12:06:14.275533-06:00_frame.jpg
+869,2023-06-03 12:36:17.505383-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 12:36:17.220512-06:00_frame.jpg
+870,2023-06-03 13:06:19.192737-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 13:06:18.861394-06:00_frame.jpg
+871,2023-06-03 13:36:24.884785-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 13:36:24.603853-06:00_frame.jpg
+872,2023-06-03 14:06:29.439853-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 14:06:29.167551-06:00_frame.jpg
+873,2023-06-03 14:36:36.085071-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 14:36:35.802859-06:00_frame.jpg
+874,2023-06-03 15:06:56.110250-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 15:06:55.826417-06:00_frame.jpg
+875,2023-06-03 15:37:13.364343-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 15:37:13.042496-06:00_frame.jpg
+876,2023-06-03 16:07:36.389256-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 16:07:36.101431-06:00_frame.jpg
+877,2023-06-03 16:37:55.900191-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 16:37:55.575171-06:00_frame.jpg
+878,2023-06-03 17:08:18.699316-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 17:08:18.433233-06:00_frame.jpg
+879,2023-06-03 17:38:35.722954-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 17:38:35.402665-06:00_frame.jpg
+880,2023-06-03 18:08:43.781334-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 18:08:43.490394-06:00_frame.jpg
+881,2023-06-03 18:38:44.054112-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 18:38:43.749435-06:00_frame.jpg
+882,2023-06-03 19:09:06.063949-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 19:09:05.736774-06:00_frame.jpg
+883,2023-06-03 19:39:24.894076-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 19:39:24.583665-06:00_frame.jpg
+884,2023-06-03 20:09:42.117089-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 20:09:41.785195-06:00_frame.jpg
+885,2023-06-03 20:40:02.631087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 20:40:02.341365-06:00_frame.jpg
+886,2023-06-03 21:10:03.645980-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 21:10:03.315449-06:00_frame.jpg
+887,2023-06-03 21:40:28.537496-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 21:40:28.265392-06:00_frame.jpg
+888,2023-06-03 22:10:30.159310-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-03 22:10:30.159310-06:00_frame.jpg
+889,2023-06-04 08:38:18.250096-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 08:38:18.250096-06:00_frame.jpg
+890,2023-06-04 09:08:39.653916-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 09:08:39.377255-06:00_frame.jpg
+891,2023-06-04 09:38:58.223650-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 09:38:57.912025-06:00_frame.jpg
+892,2023-06-04 10:09:18.178486-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 10:09:17.877333-06:00_frame.jpg
+893,2023-06-04 10:39:33.358442-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 10:39:33.090700-06:00_frame.jpg
+894,2023-06-04 11:09:35.906727-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 11:09:35.391902-06:00_frame.jpg
+895,2023-06-04 11:39:46.601990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 11:39:46.302190-06:00_frame.jpg
+896,2023-06-04 12:09:59.149978-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 12:09:58.847362-06:00_frame.jpg
+897,2023-06-04 12:40:15.865488-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 12:40:15.549567-06:00_frame.jpg
+898,2023-06-04 13:10:17.916105-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 13:10:17.657722-06:00_frame.jpg
+899,2023-06-04 13:40:34.522695-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 13:40:34.243734-06:00_frame.jpg
+900,2023-06-04 14:10:40.423209-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 14:10:40.109410-06:00_frame.jpg
+901,2023-06-04 14:40:58.620808-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 14:40:58.334538-06:00_frame.jpg
+902,2023-06-04 15:11:01.169521-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 15:11:00.907417-06:00_frame.jpg
+903,2023-06-04 15:41:16.764891-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 15:41:16.494606-06:00_frame.jpg
+904,2023-06-04 16:11:40.256212-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 16:11:39.980402-06:00_frame.jpg
+905,2023-06-04 16:42:04.711769-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 16:42:04.402293-06:00_frame.jpg
+906,2023-06-04 17:12:16.258700-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 17:12:15.935253-06:00_frame.jpg
+907,2023-06-04 17:42:36.528420-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 17:42:36.219447-06:00_frame.jpg
+908,2023-06-04 18:12:56.116224-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 18:12:55.838851-06:00_frame.jpg
+909,2023-06-04 18:43:17.764003-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 18:43:17.461510-06:00_frame.jpg
+910,2023-06-04 19:13:34.651968-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 19:13:34.369218-06:00_frame.jpg
+911,2023-06-04 19:43:43.852773-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 19:43:43.554132-06:00_frame.jpg
+912,2023-06-04 20:14:07.602706-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-04 20:14:07.304936-06:00_frame.jpg
+913,2023-06-05 08:09:58.483990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 08:09:58.483990-06:00_frame.jpg
+914,2023-06-05 08:40:10.696354-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 08:40:10.354271-06:00_frame.jpg
+915,2023-06-05 09:10:19.518209-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 09:10:19.256960-06:00_frame.jpg
+916,2023-06-05 09:40:39.271700-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 09:40:38.998183-06:00_frame.jpg
+917,2023-06-05 10:10:59.981979-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 10:10:59.650944-06:00_frame.jpg
+918,2023-06-05 10:41:04.225742-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 10:41:03.920555-06:00_frame.jpg
+919,2023-06-05 11:11:09.619635-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 11:11:09.279175-06:00_frame.jpg
+920,2023-06-05 11:41:11.538473-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 11:41:11.220499-06:00_frame.jpg
+921,2023-06-05 12:11:28.567722-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 12:11:28.289947-06:00_frame.jpg
+922,2023-06-05 12:41:41.611768-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 12:41:41.297924-06:00_frame.jpg
+923,2023-06-05 13:11:56.629634-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 13:11:56.321294-06:00_frame.jpg
+924,2023-06-05 13:42:04.645486-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 13:42:04.322382-06:00_frame.jpg
+925,2023-06-05 14:12:17.919887-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 14:12:17.634429-06:00_frame.jpg
+926,2023-06-05 14:42:28.867885-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 14:42:28.577194-06:00_frame.jpg
+927,2023-06-05 15:12:45.105052-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 15:12:44.752241-06:00_frame.jpg
+928,2023-06-05 15:43:07.583198-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 15:43:07.273005-06:00_frame.jpg
+929,2023-06-05 16:13:22.872772-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 16:13:22.567674-06:00_frame.jpg
+930,2023-06-05 16:43:39.992136-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 16:43:39.690771-06:00_frame.jpg
+931,2023-06-05 17:13:59.815226-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 17:13:59.502436-06:00_frame.jpg
+932,2023-06-05 17:44:09.845401-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 17:44:09.576637-06:00_frame.jpg
+933,2023-06-05 18:14:26.016587-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 18:14:25.706256-06:00_frame.jpg
+934,2023-06-05 18:44:34.174887-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 18:44:33.841926-06:00_frame.jpg
+935,2023-06-05 19:14:34.477558-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 19:14:34.141642-06:00_frame.jpg
+936,2023-06-05 19:44:35.654758-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 19:44:35.342451-06:00_frame.jpg
+937,2023-06-05 20:14:43.080695-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 20:14:42.693667-06:00_frame.jpg
+938,2023-06-05 20:44:44.924897-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 20:44:44.568597-06:00_frame.jpg
+939,2023-06-05 21:14:57.684093-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 21:14:57.328336-06:00_frame.jpg
+940,2023-06-05 21:45:03.454541-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-05 21:45:03.179415-06:00_frame.jpg
+941,2023-06-06 08:05:32.612934-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 08:05:32.612934-06:00_frame.jpg
+942,2023-06-06 08:35:56.057563-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 08:35:55.728521-06:00_frame.jpg
+943,2023-06-06 09:06:18.045483-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 09:06:17.728572-06:00_frame.jpg
+944,2023-06-06 09:36:34.329079-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 09:36:34.051661-06:00_frame.jpg
+945,2023-06-06 10:06:54.487619-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 10:06:54.135898-06:00_frame.jpg
+946,2023-06-06 10:37:03.208755-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 10:37:02.915009-06:00_frame.jpg
+947,2023-06-06 11:07:26.462569-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 11:07:26.108564-06:00_frame.jpg
+948,2023-06-06 11:37:32.779702-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 11:37:32.237688-06:00_frame.jpg
+949,2023-06-06 12:07:46.193679-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 12:07:45.642527-06:00_frame.jpg
+950,2023-06-06 12:38:07.958633-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 12:38:07.657441-06:00_frame.jpg
+951,2023-06-06 13:08:17.825238-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 13:08:17.529476-06:00_frame.jpg
+952,2023-06-06 13:38:18.929098-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 13:38:18.603644-06:00_frame.jpg
+953,2023-06-06 14:08:28.463646-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 14:08:28.114429-06:00_frame.jpg
+954,2023-06-06 14:38:42.345020-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 14:38:42.066018-06:00_frame.jpg
+955,2023-06-06 15:08:43.364539-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 15:08:42.997509-06:00_frame.jpg
+956,2023-06-06 15:39:02.601460-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 15:39:02.297845-06:00_frame.jpg
+957,2023-06-06 16:09:26.177927-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 16:09:25.825652-06:00_frame.jpg
+958,2023-06-06 16:39:33.484190-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 16:39:33.188521-06:00_frame.jpg
+959,2023-06-06 17:09:57.580687-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 17:09:57.281274-06:00_frame.jpg
+960,2023-06-06 17:40:21.188912-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 17:40:19.625336-06:00_frame.jpg
+961,2023-06-06 18:10:23.574349-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 18:10:23.287891-06:00_frame.jpg
+962,2023-06-06 18:40:39.262796-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 18:40:38.971612-06:00_frame.jpg
+963,2023-06-06 19:10:56.053354-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 19:10:55.740228-06:00_frame.jpg
+964,2023-06-06 19:40:58.939155-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 19:40:58.639541-06:00_frame.jpg
+965,2023-06-06 20:10:59.853720-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 20:10:59.536733-06:00_frame.jpg
+966,2023-06-06 20:41:24.788657-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 20:41:24.460751-06:00_frame.jpg
+967,2023-06-06 21:11:43.536303-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 21:11:43.186565-06:00_frame.jpg
+968,2023-06-06 21:41:45.994545-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-06 21:41:45.687258-06:00_frame.jpg
+969,2023-06-07 08:00:51.973106-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 08:00:51.973106-06:00_frame.jpg
+970,2023-06-07 08:30:54.296659-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 08:30:53.922916-06:00_frame.jpg
+971,2023-06-07 09:00:58.241562-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 09:00:57.914813-06:00_frame.jpg
+972,2023-06-07 09:30:58.854776-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 09:30:58.538283-06:00_frame.jpg
+973,2023-06-07 10:01:02.783680-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 10:01:02.450072-06:00_frame.jpg
+974,2023-06-07 10:31:04.207723-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 10:31:03.891283-06:00_frame.jpg
+975,2023-06-07 11:01:16.841960-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 11:01:16.516584-06:00_frame.jpg
+976,2023-06-07 11:31:19.712860-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 11:31:19.365315-06:00_frame.jpg
+977,2023-06-07 12:01:25.102858-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 12:01:24.808684-06:00_frame.jpg
+978,2023-06-07 12:31:35.990873-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 12:31:35.634184-06:00_frame.jpg
+979,2023-06-07 13:01:38.571815-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 13:01:38.252940-06:00_frame.jpg
+980,2023-06-07 13:31:49.002162-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 13:31:48.624308-06:00_frame.jpg
+981,2023-06-07 14:01:49.815303-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 14:01:49.457416-06:00_frame.jpg
+982,2023-06-07 14:31:52.594196-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 14:31:52.259717-06:00_frame.jpg
+983,2023-06-07 15:02:05.552022-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 15:02:05.227854-06:00_frame.jpg
+984,2023-06-07 15:32:17.117317-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 15:32:16.804267-06:00_frame.jpg
+985,2023-06-07 16:02:23.230132-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 16:02:22.868510-06:00_frame.jpg
+986,2023-06-07 16:32:31.302840-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 16:32:30.980307-06:00_frame.jpg
+987,2023-06-07 17:02:52.491873-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 17:02:52.198075-06:00_frame.jpg
+988,2023-06-07 17:32:59.543651-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 17:32:59.185988-06:00_frame.jpg
+989,2023-06-07 18:03:00.059094-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 18:02:59.740631-06:00_frame.jpg
+990,2023-06-07 18:33:00.866870-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 18:33:00.527477-06:00_frame.jpg
+991,2023-06-07 19:03:15.308225-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 19:03:15.020328-06:00_frame.jpg
+992,2023-06-07 19:33:25.624728-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 19:33:25.284307-06:00_frame.jpg
+993,2023-06-07 20:03:40.640051-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 20:03:40.329005-06:00_frame.jpg
+994,2023-06-07 20:33:43.685099-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 20:33:43.359306-06:00_frame.jpg
+995,2023-06-07 21:03:49.247185-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 21:03:48.929705-06:00_frame.jpg
+996,2023-06-07 21:33:59.708747-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-07 21:33:59.356706-06:00_frame.jpg
+997,2023-06-08 08:05:47.782496-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 08:05:47.782496-06:00_frame.jpg
+998,2023-06-08 08:35:50.903424-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 08:35:50.650544-06:00_frame.jpg
+999,2023-06-08 09:06:09.697964-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 09:06:09.377224-06:00_frame.jpg
+1000,2023-06-08 09:36:27.964495-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 09:36:27.671741-06:00_frame.jpg
+1001,2023-06-08 10:06:51.160581-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 10:06:50.851560-06:00_frame.jpg
+1002,2023-06-08 10:36:56.073289-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 10:36:56.073289-06:00_frame.jpg
+1003,2023-06-08 11:07:02.634548-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 11:07:02.259201-06:00_frame.jpg
+1004,2023-06-08 11:37:05.532827-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 11:37:05.195386-06:00_frame.jpg
+1005,2023-06-08 12:07:18.724516-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 12:07:18.409679-06:00_frame.jpg
+1006,2023-06-08 12:37:40.507073-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 12:37:40.154488-06:00_frame.jpg
+1007,2023-06-08 13:07:58.624890-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 13:07:58.300765-06:00_frame.jpg
+1008,2023-06-08 13:38:03.188282-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 13:38:03.188282-06:00_frame.jpg
+1009,2023-06-08 14:08:09.386067-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 14:08:09.080008-06:00_frame.jpg
+1010,2023-06-08 14:38:28.427330-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 14:38:28.056677-06:00_frame.jpg
+1011,2023-06-08 15:08:46.249089-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 15:08:45.897874-06:00_frame.jpg
+1012,2023-06-08 15:39:04.550850-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 15:39:04.206966-06:00_frame.jpg
+1013,2023-06-08 16:09:24.311616-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 16:09:24.016290-06:00_frame.jpg
+1014,2023-06-08 16:39:31.274872-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 16:39:30.928859-06:00_frame.jpg
+1015,2023-06-08 17:09:41.711996-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 17:09:41.327628-06:00_frame.jpg
+1016,2023-06-08 17:39:50.239150-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 17:39:49.924499-06:00_frame.jpg
+1017,2023-06-08 18:10:07.351782-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 18:10:07.028628-06:00_frame.jpg
+1018,2023-06-08 18:40:09.003692-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 18:40:08.648931-06:00_frame.jpg
+1019,2023-06-08 19:10:31.297617-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 19:10:30.986630-06:00_frame.jpg
+1020,2023-06-08 19:40:55.258941-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 19:40:54.918154-06:00_frame.jpg
+1021,2023-06-08 20:11:19.331685-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 20:11:19.005558-06:00_frame.jpg
+1022,2023-06-08 20:41:28.333577-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 20:41:28.007671-06:00_frame.jpg
+1023,2023-06-08 21:11:40.147030-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 21:11:39.823143-06:00_frame.jpg
+1024,2023-06-08 21:41:42.075990-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-08 21:41:41.736052-06:00_frame.jpg
+1025,2023-06-09 08:16:11.221919-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 08:16:11.221919-06:00_frame.jpg
+1026,2023-06-09 08:46:23.512206-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 08:46:23.175473-06:00_frame.jpg
+1027,2023-06-09 09:16:45.828440-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 09:16:45.492066-06:00_frame.jpg
+1028,2023-06-09 09:46:47.229291-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 09:46:46.920421-06:00_frame.jpg
+1029,2023-06-09 10:16:47.572706-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 10:16:47.572706-06:00_frame.jpg
+1030,2023-06-09 10:47:24.353766-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 10:47:23.979380-06:00_frame.jpg
+1031,2023-06-09 11:17:46.747689-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 11:17:46.407677-06:00_frame.jpg
+1032,2023-06-09 11:48:00.787074-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 11:48:00.397526-06:00_frame.jpg
+1033,2023-06-09 12:18:12.069248-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 12:18:11.770024-06:00_frame.jpg
+1034,2023-06-09 12:48:22.143952-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 12:48:21.754251-06:00_frame.jpg
+1035,2023-06-09 13:18:47.587087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 13:18:47.306272-06:00_frame.jpg
+1036,2023-06-09 13:48:47.843733-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 13:48:47.843733-06:00_frame.jpg
+1037,2023-06-09 14:19:00.408464-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 14:19:00.094312-06:00_frame.jpg
+1038,2023-06-09 14:49:13.187172-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 14:49:12.785772-06:00_frame.jpg
+1039,2023-06-09 15:19:19.051466-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 15:19:18.749749-06:00_frame.jpg
+1040,2023-06-09 15:49:32.080173-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 15:49:31.788560-06:00_frame.jpg
+1041,2023-06-09 16:19:36.919898-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 16:19:36.601806-06:00_frame.jpg
+1042,2023-06-09 16:49:47.889455-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 16:49:47.889455-06:00_frame.jpg
+1043,2023-06-09 17:20:07.419719-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 17:20:07.117462-06:00_frame.jpg
+1044,2023-06-09 17:50:13.338238-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 17:50:13.049266-06:00_frame.jpg
+1045,2023-06-09 18:20:19.605327-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 18:20:19.265062-06:00_frame.jpg
+1046,2023-06-09 18:50:41.418066-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 18:50:41.122370-06:00_frame.jpg
+1047,2023-06-09 19:20:48.194958-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 19:20:48.194958-06:00_frame.jpg
+1048,2023-06-09 19:50:55.822833-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 19:50:55.525800-06:00_frame.jpg
+1049,2023-06-09 20:21:07.196110-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 20:21:06.862654-06:00_frame.jpg
+1050,2023-06-09 20:51:22.279531-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 20:51:21.879380-06:00_frame.jpg
+1051,2023-06-09 21:21:30.082699-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 21:21:29.791262-06:00_frame.jpg
+1052,2023-06-09 21:51:39.289858-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-09 21:51:38.990849-06:00_frame.jpg
+1053,2023-06-10 08:09:33.919826-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 08:09:33.919826-06:00_frame.jpg
+1054,2023-06-10 08:39:42.720418-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 08:39:42.412954-06:00_frame.jpg
+1055,2023-06-10 09:09:49.520431-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 09:09:49.219857-06:00_frame.jpg
+1056,2023-06-10 09:39:59.162993-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 09:39:58.836013-06:00_frame.jpg
+1057,2023-06-10 10:10:15.104762-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 10:10:14.764438-06:00_frame.jpg
+1058,2023-06-10 10:40:16.834755-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 10:40:16.531535-06:00_frame.jpg
+1059,2023-06-10 11:10:28.036027-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 11:10:27.655958-06:00_frame.jpg
+1060,2023-06-10 11:40:50.284464-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 11:40:49.957582-06:00_frame.jpg
+1061,2023-06-10 12:11:08.882961-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 12:11:08.557316-06:00_frame.jpg
+1062,2023-06-10 12:41:11.212487-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 12:41:10.902604-06:00_frame.jpg
+1063,2023-06-10 13:11:21.376753-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,9,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 13:11:21.027818-06:00_frame.jpg
+1064,2023-06-10 13:41:35.466732-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 13:41:35.144432-06:00_frame.jpg
+1065,2023-06-10 14:11:40.680574-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 14:11:40.372893-06:00_frame.jpg
+1066,2023-06-10 14:41:58.429422-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 14:41:58.087378-06:00_frame.jpg
+1067,2023-06-10 15:12:19.517407-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 15:12:19.216852-06:00_frame.jpg
+1068,2023-06-10 15:42:30.534028-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 15:42:30.234132-06:00_frame.jpg
+1069,2023-06-10 16:12:44.467259-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 16:12:44.146966-06:00_frame.jpg
+1070,2023-06-10 16:43:09.098215-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 16:43:08.785177-06:00_frame.jpg
+1071,2023-06-10 17:13:15.467651-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 17:13:15.155039-06:00_frame.jpg
+1072,2023-06-10 17:43:15.576153-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 17:43:15.272178-06:00_frame.jpg
+1073,2023-06-10 18:13:17.012833-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 18:13:17.012833-06:00_frame.jpg
+1074,2023-06-10 18:43:36.400803-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 18:43:36.036531-06:00_frame.jpg
+1075,2023-06-10 19:13:56.760329-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 19:13:56.452340-06:00_frame.jpg
+1076,2023-06-10 19:44:16.062583-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 19:44:15.784167-06:00_frame.jpg
+1077,2023-06-10 20:14:26.493480-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 20:14:26.109265-06:00_frame.jpg
+1078,2023-06-10 20:44:36.826434-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 20:44:36.467536-06:00_frame.jpg
+1079,2023-06-10 21:14:50.444247-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 21:14:50.025645-06:00_frame.jpg
+1080,2023-06-10 21:44:57.611250-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-10 21:44:57.325487-06:00_frame.jpg
+1081,2023-06-11 08:38:56.973812-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 08:38:56.973812-06:00_frame.jpg
+1082,2023-06-11 09:09:08.724659-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 09:09:08.410494-06:00_frame.jpg
+1083,2023-06-11 09:39:12.736747-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 09:39:12.434764-06:00_frame.jpg
+1084,2023-06-11 10:09:25.033624-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 10:09:24.614333-06:00_frame.jpg
+1085,2023-06-11 10:39:38.677421-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 10:39:38.349716-06:00_frame.jpg
+1086,2023-06-11 11:09:52.185259-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 11:09:51.855951-06:00_frame.jpg
+1087,2023-06-11 11:40:10.375495-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 11:40:10.056753-06:00_frame.jpg
+1088,2023-06-11 12:10:19.426670-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 12:10:19.050249-06:00_frame.jpg
+1089,2023-06-11 12:40:21.837298-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 12:40:21.837298-06:00_frame.jpg
+1090,2023-06-11 13:10:22.772773-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 13:10:22.478984-06:00_frame.jpg
+1091,2023-06-11 13:40:41.653570-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 13:40:41.298041-06:00_frame.jpg
+1092,2023-06-11 14:10:44.420765-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 14:10:44.056893-06:00_frame.jpg
+1093,2023-06-11 14:40:52.415302-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 14:40:52.068288-06:00_frame.jpg
+1094,2023-06-11 15:10:56.650921-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 15:10:56.334940-06:00_frame.jpg
+1095,2023-06-11 15:40:56.876235-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 15:40:56.534401-06:00_frame.jpg
+1096,2023-06-11 16:11:21.006977-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 16:11:20.702430-06:00_frame.jpg
+1097,2023-06-11 16:41:22.116385-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 16:41:22.116385-06:00_frame.jpg
+1098,2023-06-11 17:11:41.109222-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 17:11:40.787535-06:00_frame.jpg
+1099,2023-06-11 17:41:46.539042-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 17:41:46.290112-06:00_frame.jpg
+1100,2023-06-11 18:11:57.618287-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 18:11:57.299642-06:00_frame.jpg
+1101,2023-06-11 18:41:57.999504-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 18:41:57.656278-06:00_frame.jpg
+1102,2023-06-11 19:12:13.332499-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 19:12:13.055374-06:00_frame.jpg
+1103,2023-06-11 19:42:17.460125-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 19:42:17.155026-06:00_frame.jpg
+1104,2023-06-11 20:12:19.822805-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-11 20:12:19.822805-06:00_frame.jpg
+1105,2023-06-12 08:07:30.871831-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 08:07:30.421430-06:00_frame.jpg
+1106,2023-06-12 08:37:43.983037-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 08:37:43.655604-06:00_frame.jpg
+1107,2023-06-12 09:07:59.216600-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 09:07:58.912852-06:00_frame.jpg
+1108,2023-06-12 09:38:17.353851-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 09:38:16.989058-06:00_frame.jpg
+1109,2023-06-12 10:08:27.471771-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 10:08:27.187833-06:00_frame.jpg
+1110,2023-06-12 10:38:38.248128-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 10:38:37.908512-06:00_frame.jpg
+1111,2023-06-12 11:08:54.689835-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 11:08:54.325553-06:00_frame.jpg
+1112,2023-06-12 11:39:15.478110-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 11:39:15.122377-06:00_frame.jpg
+1113,2023-06-12 12:09:22.307801-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 12:09:21.980895-06:00_frame.jpg
+1114,2023-06-12 12:39:44.753705-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 12:39:44.460453-06:00_frame.jpg
+1115,2023-06-12 13:10:09.159557-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,10,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 13:10:08.817540-06:00_frame.jpg
+1116,2023-06-12 13:40:22.438166-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 13:40:22.112509-06:00_frame.jpg
+1117,2023-06-12 14:10:32.686291-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 14:10:32.431652-06:00_frame.jpg
+1118,2023-06-12 14:40:33.234479-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 14:40:32.944228-06:00_frame.jpg
+1119,2023-06-12 15:10:54.338498-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 15:10:53.993544-06:00_frame.jpg
+1120,2023-06-12 15:40:54.412198-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 15:40:54.106061-06:00_frame.jpg
+1121,2023-06-12 16:11:01.114081-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 16:11:00.818258-06:00_frame.jpg
+1122,2023-06-12 16:41:18.961293-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 16:41:18.657475-06:00_frame.jpg
+1123,2023-06-12 17:11:23.737791-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 17:11:23.408936-06:00_frame.jpg
+1124,2023-06-12 17:41:29.532087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 17:41:29.235685-06:00_frame.jpg
+1125,2023-06-12 18:11:47.939065-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 18:11:47.627125-06:00_frame.jpg
+1126,2023-06-12 18:41:48.707907-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 18:41:48.369821-06:00_frame.jpg
+1127,2023-06-12 19:12:08.734629-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 19:12:08.369503-06:00_frame.jpg
+1128,2023-06-12 19:42:27.701992-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 19:42:27.343229-06:00_frame.jpg
+1129,2023-06-12 20:12:27.738050-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 20:12:27.386263-06:00_frame.jpg
+1130,2023-06-12 20:42:51.846570-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 20:42:51.507019-06:00_frame.jpg
+1131,2023-06-12 21:12:54.387181-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 21:12:54.070618-06:00_frame.jpg
+1132,2023-06-12 21:42:58.835940-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-12 21:42:58.522246-06:00_frame.jpg
+1133,2023-06-13 08:09:05.170752-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 08:09:05.170752-06:00_frame.jpg
+1134,2023-06-13 08:39:31.876810-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 08:39:31.581884-06:00_frame.jpg
+1135,2023-06-13 09:09:46.871496-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 09:09:46.528708-06:00_frame.jpg
+1136,2023-06-13 09:40:01.250077-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 09:40:00.888830-06:00_frame.jpg
+1137,2023-06-13 10:10:11.054820-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,6,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 10:10:10.718041-06:00_frame.jpg
+1138,2023-06-13 10:40:14.792638-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 10:40:14.481072-06:00_frame.jpg
+1139,2023-06-13 11:10:38.484920-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 11:10:38.070197-06:00_frame.jpg
+1140,2023-06-13 11:41:01.273087-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 11:41:00.975522-06:00_frame.jpg
+1141,2023-06-13 12:11:12.356769-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 12:11:12.049901-06:00_frame.jpg
+1142,2023-06-13 12:41:15.829728-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 12:41:15.526929-06:00_frame.jpg
+1143,2023-06-13 13:11:27.261886-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 13:11:26.752488-06:00_frame.jpg
+1144,2023-06-13 13:41:46.480630-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 13:41:46.118200-06:00_frame.jpg
+1145,2023-06-13 14:12:04.500652-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 14:12:04.159538-06:00_frame.jpg
+1146,2023-06-13 14:42:22.390804-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 14:42:21.991235-06:00_frame.jpg
+1147,2023-06-13 15:12:28.738170-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 15:12:28.386013-06:00_frame.jpg
+1148,2023-06-13 15:43:01.391911-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 15:43:01.017460-06:00_frame.jpg
+1149,2023-06-13 16:13:10.429658-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 16:13:10.077419-06:00_frame.jpg
+1150,2023-06-13 16:43:31.103144-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 16:43:30.795120-06:00_frame.jpg
+1151,2023-06-13 17:13:44.625102-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 17:13:44.305099-06:00_frame.jpg
+1152,2023-06-13 17:43:56.522741-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 17:43:56.214005-06:00_frame.jpg
+1153,2023-06-13 18:14:02.561775-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 18:14:02.263114-06:00_frame.jpg
+1154,2023-06-13 18:44:05.465713-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 18:44:05.117360-06:00_frame.jpg
+1155,2023-06-13 19:14:06.516445-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 19:14:06.176131-06:00_frame.jpg
+1156,2023-06-13 19:44:08.187134-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 19:44:07.864499-06:00_frame.jpg
+1157,2023-06-13 20:14:13.942582-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,7,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 20:14:13.608652-06:00_frame.jpg
+1158,2023-06-13 20:44:34.331631-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,8,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 20:44:33.989191-06:00_frame.jpg
+1159,2023-06-13 21:14:47.612962-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 21:14:47.287831-06:00_frame.jpg
+1160,2023-06-13 21:45:17.408790-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,4,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-13 21:45:17.108567-06:00_frame.jpg
+1161,2023-06-14 08:10:47.465433-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,0,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 08:10:47.465433-06:00_frame.jpg
+1162,2023-06-14 08:41:06.986768-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 08:41:06.666287-06:00_frame.jpg
+1163,2023-06-14 09:11:21.952605-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 09:11:21.609294-06:00_frame.jpg
+1164,2023-06-14 09:41:25.229916-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 09:41:24.895648-06:00_frame.jpg
+1165,2023-06-14 10:11:46.897203-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 10:11:46.605610-06:00_frame.jpg
+1166,2023-06-14 10:41:46.938669-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 10:41:46.627437-06:00_frame.jpg
+1167,2023-06-14 11:12:13.514378-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 11:12:13.175287-06:00_frame.jpg
+1168,2023-06-14 11:42:23.156643-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 11:42:22.842668-06:00_frame.jpg
+1169,2023-06-14 12:12:39.495501-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 12:12:39.147795-06:00_frame.jpg
+1170,2023-06-14 12:42:59.602761-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 12:42:59.249650-06:00_frame.jpg
+1171,2023-06-14 13:13:16.528084-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 13:13:16.225873-06:00_frame.jpg
+1172,2023-06-14 13:43:29.006869-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 13:43:28.658746-06:00_frame.jpg
+1173,2023-06-14 14:13:36.858695-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 14:13:36.585741-06:00_frame.jpg
+1174,2023-06-14 14:43:53.541068-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,1,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 14:43:53.276463-06:00_frame.jpg
+1175,2023-06-14 15:14:00.064136-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 15:13:59.719201-06:00_frame.jpg
+1176,2023-06-14 15:44:13.218690-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 15:44:12.875287-06:00_frame.jpg
+1177,2023-06-14 16:14:36.817730-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,3,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 16:14:36.517779-06:00_frame.jpg
+1178,2023-06-14 16:44:50.624519-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 16:44:50.299370-06:00_frame.jpg
+1179,2023-06-14 17:14:58.993025-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,2,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 17:14:58.594588-06:00_frame.jpg
+1180,2023-06-14 17:45:26.990823-06:00,MX,,,,,19.36487,-99.13421,,cafe calaverita,,,,,5,,,,,,,,,,,,,,MX/cafe calaverita/2023-06-14 17:45:26.711372-06:00_frame.jpg

@@ -1,6 +1,6 @@
 #python 3.9
 
-numpy 
+numpy==1.23.2
 pandas 
 jupyterlab 
 matplotlib 
@@ -16,4 +16,5 @@ tqdm
 opencv-python
 tensorflow==2.10.1
 tensorflow-hub==0.12.0
-
+xgboost
+#cupy
