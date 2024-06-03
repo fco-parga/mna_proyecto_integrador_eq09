@@ -78,3 +78,4 @@ def plot_df_counts_timeseries(df, figsize=(13, 3), grouped=False, agg2plot=None,
     # Muestra el gráfico
     plt.show()
     plt.rcdefaults()
+    
