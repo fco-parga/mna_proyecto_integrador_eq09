@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.model_selection import KFold
 
@@ -154,3 +155,68 @@ def plot_model_predictions(model, X_train, X_val_test, y_train, y_val_test, coun
     plt.show()
 
     return metrics if return_metrics else None
+
+
+def plot_predictions_timeseries(X_train, X_test, y_train, y_test, model_fit, figsize=(13, 3), labelsize=8, markersize=6, angle=None):
+    """
+    Genera un gráfico que muestra las predicciones del modelo junto con los datos reales de entrenamiento y prueba.
+
+    Parámetros:
+    X_train (DataFrame): Características de entrenamiento.
+    X_test (DataFrame): Características de prueba.
+    y_train (array): Valores reales de entrenamiento.
+    y_test (array): Valores reales de prueba.
+    model_fit (modelo): Modelo entrenado para hacer predicciones.
+    figsize (tuple, opcional): Tamaño de la figura del gráfico.
+    labelsize (int, opcional): Tamaño de la etiqueta del eje x.
+    angle (int, opcional): Ángulo de rotación de las etiquetas del eje x.
+
+    Devuelve:
+    None: Esta función no devuelve nada, solo muestra el gráfico.
+    """
+
+    # Configura el tamaño de la figura del gráfico
+    plt.figure(figsize=figsize)
+    plt.rc('xtick', labelsize=labelsize)
+
+    # Realiza las predicciones
+    y_train_pred = model_fit.predict(X_train)
+    y_test_pred = model_fit.predict(X_test)
+
+    # Combina los datos de entrenamiento y prueba para el gráfico
+    y_real = np.concatenate((y_train, y_test), axis=0)
+    y_pred = np.concatenate((y_train_pred, y_test_pred), axis=0)
+    dates = np.concatenate((X_train.index, X_test.index), axis=0)
+
+    # Grafica los datos reales de entrenamiento y prueba
+    plt.plot(dates[:len(y_train)], y_train, 'o',color='lightblue', label='Real Train', markersize=markersize)
+    plt.plot(dates[:len(y_train_pred)], y_train_pred, 'x', color='blue', label='Predicted Train', markersize=markersize)
+    # Grafica las predicciones del modelo
+   
+    plt.plot(dates[len(y_train):], y_test, 'o', color='orange', label='Real Test', markersize=markersize)
+    plt.plot(dates[len(y_train_pred):], y_test_pred, 'x', color='orange', label='Predicted Test', markersize=markersize)
+
+    # Configura el formato de las etiquetas del eje x para fechas
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+    plt.gca().xaxis.set_major_locator(mdates.DayLocator())
+
+    # Ajusta la orientación de las etiquetas de fecha
+    if angle:
+        plt.xticks(rotation=angle)
+    else:
+        plt.gcf().autofmt_xdate()
+
+    # Establece las etiquetas y el título del gráfico
+    plt.xlabel('Fecha')
+    plt.ylabel('Número de personas')
+    plt.title('Predicciones vs Datos Reales')
+
+    # Activa la grilla para mejor visualización
+    plt.gca().yaxis.grid(True)  # Solo líneas horizontales
+    plt.gca().xaxis.grid(False) # Sin líneas verticales
+    # Muestra la leyenda del gráfico
+    plt.legend()
+
+    # Muestra el gráfico
+    plt.show()
+    plt.rcdefaults()
